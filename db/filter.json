@@ -1,0 +1,17 @@
+{
+  "MDRFilter": [
+    {
+      "area": "Operação Linha de Fibras",
+      "processo": [
+        "LINHA DE FIBRAS"
+      ]
+    },
+    {
+      "area": "RECUPERAÇÃO",
+      "processo": [
+        "CAUSTIFICAÇÃO",
+        "EVA E CALD DE REC"
+      ]
+    }
+  ]
+}

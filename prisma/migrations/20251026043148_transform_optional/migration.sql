@@ -1,0 +1,3 @@
+-- AlterTable
+ALTER TABLE "public"."Mdr" ALTER COLUMN "GHE" DROP NOT NULL,
+ALTER COLUMN "aprovadores" DROP NOT NULL;

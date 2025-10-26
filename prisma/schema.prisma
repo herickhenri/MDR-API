@@ -1,0 +1,61 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model Sector {
+  unidade  String
+  area     String
+  processo String
+  mdr      Mdr[]
+
+  @@id([unidade, area, processo])
+}
+
+model Mdr {
+  id                 String   @id @default(cuid())
+  titulo             String
+  tarefa             String
+  situacaoOp         String
+  cargos             String[]
+  GHE                String?
+  crit44Exposicao    String
+  partesInteressadas String?
+  responsavel        String?
+  editores           String?
+  aprovadores        String?
+  linkAprovacao      String?
+  sectorUnidade      String
+  sectorArea         String
+  sectorProcesso     String
+  perigos            Danger[]
+  sector             Sector   @relation(fields: [sectorUnidade, sectorArea, sectorProcesso], references: [unidade, area, processo], onDelete: Cascade)
+}
+
+model Danger {
+  id     String  @id @default(cuid())
+  tipo   String
+  mdrId  String?
+  mdr    Mdr?    @relation(fields: [mdrId], references: [id], onDelete: Cascade)
+  riscos Risk[]
+}
+
+model Risk {
+  id                 String   @id @default(cuid())
+  tipo               String
+  crit1Lesao         String[]
+  crit31NaturDoRisc  String
+  crit41Prob         String
+  crit42SitControl   String
+  crit42Concentracao String
+  crit4Severidade    String
+  controlOp          String[]
+  calculo            Int
+  significanciaRisco String
+  dangerId           String?
+  Danger             Danger?  @relation(fields: [dangerId], references: [id], onDelete: Cascade)
+}

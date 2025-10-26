@@ -1,0 +1,5103 @@
+[
+  {
+    "id": "GHtFuUyNCk",
+    "titulo": "Operação de Área Linha de Fibras",
+    "tarefa": "Abrir e fechar válvulas manuais na área",
+    "situacaoOp": "Normal",
+    "cargos": [
+      "Estagiário técnico Estagiário Formare Auxiliares de Produção Operador assistente área Linha de Fibras I Operador de área Linha de Fibras II Operador de painel Linha de Fibras Consultor de produção I Consultor de engenharia de Produção Trainee programa jovens engenheiros Gerente funcional Linha de Fibras Gerente Executivo de Produção Celulose"
+    ],
+    "GHE": "34000715;\r\n32000202;\r\n32000208;\r\n32000207;\r\n32000101;\r\n32000103;",
+    "crit44Exposicao": "2 - Entre 4 e 9 pessoas; <10 horas mês",
+    "perigo": [
+      {
+        "tipo": "Esforço Físico",
+        "risco": [
+          {
+            "tipo": "Fadiga;  Postura inadequada / incorreta ",
+            "crit1Lesao": [
+              "Contusões",
+              "  Entorse",
+              " Luxações",
+              "  Distensão muscular \r\n"
+            ],
+            "crit31NaturDoRisc": "ERGONÔMICOS",
+            "crit41Prob": "3 - Provável",
+            "crit42SitControl": "2 - Administrativo",
+            "crit42Concentracao": "2 - Médio",
+            "crit4Severidade": "2 - Prejudicial",
+            "controlOp": [
+              " UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\nUTILIZAÇÃO DA CAMISA MANGA LONGA",
+              "\r\nOBSERVAR EVENTUAIS VAZAMENTOS (LÍQUIDOS E GASES) E CONTAMINANTES (POEIRA E OUTROS)",
+              "\r\nSeguir procedimento padrão para execução de atividade obedecendo a liberação e EPIs adequados",
+              "\r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\n PROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA DE RECONHECIMENTO EM SSQV",
+              ""
+            ],
+            "calculo": 48,
+            "significanciaRisco": "Moderada Significante"
+          }
+        ]
+      },
+      {
+        "tipo": "Abrir e fechar Válvulas",
+        "risco": [
+          {
+            "tipo": "Queimaduras; Respingos; Químico ",
+            "crit1Lesao": [
+              "Dermatoses",
+              "  Queimaduras químicas "
+            ],
+            "crit31NaturDoRisc": "ERGONÔMICOS",
+            "crit41Prob": "2 - Remota",
+            "crit42SitControl": "2 - Administrativo",
+            "crit42Concentracao": "2 - Médio",
+            "crit4Severidade": "1 - Levemente Prejudicial",
+            "controlOp": [
+              " UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\nUTILIZAÇÃO DA CAMISA MANGA LONGA",
+              "\r\nOBSERVAR EVENTUAIS VAZAMENTOS (LÍQUIDOS E GASES) E CONTAMINANTES (POEIRA E OUTROS)",
+              "\r\nSeguir procedimento padrão para execução de atividade obedecendo a liberação e EPIs adequados",
+              "\r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\n PROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA DE RECONHECIMENTO EM SSQV",
+              ""
+            ],
+            "calculo": 16,
+            "significanciaRisco": "Aceitável Insignificante"
+          }
+        ]
+      },
+      {
+        "tipo": "Piso irregular e/ou escorregadio",
+        "risco": [
+          {
+            "tipo": " Queda de diferente nível ",
+            "crit1Lesao": [
+              " Ferimentos / escoriações leves",
+              "  Ferimentos / escoriações graves",
+              " Fraturas "
+            ],
+            "crit31NaturDoRisc": "ACIDENTES",
+            "crit41Prob": "2 - Remota",
+            "crit42SitControl": "2 - Administrativo",
+            "crit42Concentracao": "2 - Médio",
+            "crit4Severidade": "1 - Levemente Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\nUTILIZAÇÃO DA CAMISA MANGA LONGA",
+              "\r\nSeguir procedimento padrão para execução de atividade obedecendo a liberação e EPIs adequados",
+              "\r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA DE RECONHECIMENTO EM SSQV",
+              "\r\nDIÁLOGO DE SEGURANÇA",
+              ""
+            ],
+            "calculo": 16,
+            "significanciaRisco": "Aceitável Insignificante"
+          }
+        ]
+      }
+    ],
+    "partesInteressadas": "Sim",
+    "responsavel": "George Lucas Oliveira de Sousa",
+    "editores": "Leomir Morais dos Anjos ",
+    "aprovadores": "Evaldo Soares Boaventura",
+    "linkAprovacao": "INDUSTRIAL IMPERATRIZ"
+  },
+  {
+    "id": "Yxst23sLFn",
+    "titulo": "Operação de Área Linha de Fibras",
+    "tarefa": "Acompanhamento de Paradas para manutenção",
+    "situacaoOp": "Normal",
+    "cargos": [
+      "Estagiário técnico Estagiário Formare Auxiliares de Produção Operador assistente área Linha de Fibras I Operador de área Linha de Fibras II Operador de painel Linha de Fibras Consultor de produção I Consultor de engenharia de Produção Trainee programa jovens engenheiros Gerente funcional Linha de Fibras Gerente Executivo de Produção Celulose"
+    ],
+    "GHE": "34000715;\r\n32000202;\r\n32000208;\r\n32000207;\r\n32000101;\r\n32000103;",
+    "crit44Exposicao": "6 - 10 ou mais pessoas; >10 <100 horas mês",
+    "perigo": [
+      {
+        "tipo": "Material particulado",
+        "risco": [
+          {
+            "tipo": "Exposição ",
+            "crit1Lesao": [
+              "Alergia",
+              " Dermatite"
+            ],
+            "crit31NaturDoRisc": "QUÍMICOS",
+            "crit41Prob": "2 - Remota",
+            "crit42SitControl": "2 - Administrativo",
+            "crit42Concentracao": "1 - Baixo",
+            "crit4Severidade": "1 - Levemente Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\nUTILIZAÇÃO DA CAMISA MANGA LONGA",
+              "\r\nSeguir procedimento padrão para execução de atividade obedecendo a liberação e EPIs adequados",
+              "\r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA DE RECONHECIMENTO EM SSQV",
+              "\r\nDIÁLOGO DE SEGURANÇA",
+              ""
+            ],
+            "calculo": 24,
+            "significanciaRisco": "Moderada Significante"
+          }
+        ]
+      },
+      {
+        "tipo": "FALTA PLANEJAMENTO PARA EXECUÇÃO DA ATIVIDADE",
+        "risco": [
+          {
+            "tipo": "FADIGA",
+            "crit1Lesao": [
+              "Fadiga"
+            ],
+            "crit31NaturDoRisc": "ACIDENTES",
+            "crit41Prob": "2 - Remota",
+            "crit42SitControl": "2 - Administrativo",
+            "crit42Concentracao": "1 - Baixo",
+            "crit4Severidade": "1 - Levemente Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\nUTILIZAÇÃO DA CAMISA MANGA LONGA",
+              "\r\nSeguir procedimento padrão para execução de atividade obedecendo a liberação e EPIs adequados",
+              "\r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA DE RECONHECIMENTO EM SSQV",
+              "\r\nDIÁLOGO DE SEGURANÇA",
+              ""
+            ],
+            "calculo": 24,
+            "significanciaRisco": "Moderada Significante"
+          }
+        ]
+      }
+    ],
+    "partesInteressadas": "Sim",
+    "responsavel": "George Lucas Oliveira de Sousa",
+    "editores": "Leomir Morais dos Anjos ",
+    "aprovadores": "Evaldo Soares Boaventura",
+    "linkAprovacao": "INDUSTRIAL IMPERATRIZ"
+  },
+  {
+    "id": "fUCeJrlZB9",
+    "titulo": "Operação de Área Linha de Fibras",
+    "tarefa": "Ajuste do alimentador de alta pressão",
+    "situacaoOp": "Normal",
+    "cargos": [
+      "Auxiliares de Produção Operador assistente área Linha de Fibras I Operador de área Linha de Fibras II Operador de painel Linha de Fibras Consultor de produção I Consultor de engenharia de Produção Trainee programa jovens engenheiros Gerente funcional Linha de Fibras Gerente Executivo de Produção Celulose"
+    ],
+    "GHE": "32000208;\r\n32000207;",
+    "crit44Exposicao": "2 - Entre 4 e 9 pessoas; <10 horas mês",
+    "perigo": [
+      {
+        "tipo": "RUÍDO",
+        "risco": [
+          {
+            "tipo": "Exposição ",
+            "crit1Lesao": [
+              "Perda ou diminuição de sentido (audição",
+              " visão",
+              " olfato",
+              " paladar e tato)"
+            ],
+            "crit31NaturDoRisc": "FÍSICO",
+            "crit41Prob": "2 - Remota",
+            "crit42SitControl": "3 - EPI",
+            "crit42Concentracao": "2 - Médio",
+            "crit4Severidade": "1 - Levemente Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\nUTILIZAÇÃO DA CAMISA MANGA LONGA",
+              "\r\nUTILIZAR MASCARA COM FILTRO",
+              "\r\nSeguir procedimento padrão para execução de atividade obedecendo a liberação e EPIs adequados",
+              "\r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA DE RECONHECIMENTO EM SSQV",
+              "\r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 24,
+            "significanciaRisco": "Moderada Significante"
+          }
+        ]
+      },
+      {
+        "tipo": "Substância química",
+        "risco": [
+          {
+            "tipo": "Exposição ",
+            "crit1Lesao": [
+              "Alergia",
+              " Dermatite",
+              " mal estar"
+            ],
+            "crit31NaturDoRisc": "QUÍMICOS",
+            "crit41Prob": "2 - Remota",
+            "crit42SitControl": "3 - EPI",
+            "crit42Concentracao": "1 - Baixo",
+            "crit4Severidade": "1 - Levemente Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\nUTILIZAÇÃO DA CAMISA MANGA LONGA",
+              "\r\nUTILIZAR MASCARA COM FILTRO",
+              "\r\nSeguir procedimento padrão para execução de atividade obedecendo a liberação e EPIs adequados",
+              "\r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA DE RECONHECIMENTO EM SSQV",
+              "\r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 12,
+            "significanciaRisco": "Aceitável Insignificante"
+          }
+        ]
+      },
+      {
+        "tipo": "Esforço Físico",
+        "risco": [
+          {
+            "tipo": "FADIGA",
+            "crit1Lesao": [
+              "Distensão muscular",
+              " Exaustão",
+              " Lombalgias"
+            ],
+            "crit31NaturDoRisc": "ERGONÔMICOS",
+            "crit41Prob": "2 - Remota",
+            "crit42SitControl": "2 - Administrativo",
+            "crit42Concentracao": "1 - Baixo",
+            "crit4Severidade": "1 - Levemente Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\nUTILIZAÇÃO DA CAMISA MANGA LONGA",
+              "\r\nUTILIZAR MASCARA COM FILTRO",
+              "\r\nSeguir procedimento padrão para execução de atividade obedecendo a liberação e EPIs adequados",
+              "\r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA DE RECONHECIMENTO EM SSQV",
+              "\r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 8,
+            "significanciaRisco": "Aceitável Insignificante"
+          }
+        ]
+      },
+      {
+        "tipo": "Ergonomia/Prevenção",
+        "risco": [
+          {
+            "tipo": "FADIGA",
+            "crit1Lesao": [
+              "Câimbra",
+              " Distensão muscular",
+              " Cansaço"
+            ],
+            "crit31NaturDoRisc": "ERGONÔMICOS",
+            "crit41Prob": "2 - Remota",
+            "crit42SitControl": "2 - Administrativo",
+            "crit42Concentracao": "1 - Baixo",
+            "crit4Severidade": "1 - Levemente Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\nUTILIZAÇÃO DA CAMISA MANGA LONGA",
+              "\r\nUTILIZAR MASCARA COM FILTRO",
+              "\r\nSeguir procedimento padrão para execução de atividade obedecendo a liberação e EPIs adequados",
+              "\r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA DE RECONHECIMENTO EM SSQV",
+              "\r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 8,
+            "significanciaRisco": "Aceitável Insignificante"
+          }
+        ]
+      }
+    ],
+    "partesInteressadas": "Sim",
+    "responsavel": "Paulo Jose de Castro",
+    "editores": "Matheus Gomes de Cena",
+    "aprovadores": "Vinicius Azevedo de Medeiros",
+    "linkAprovacao": "INDUSTRIAL IMPERATRIZ"
+  },
+  {
+    "id": "5pYW8DSIYP",
+    "titulo": "Operação de Área Linha de Fibras",
+    "tarefa": "Bom Senso da área, limpeza e organização",
+    "situacaoOp": "Normal",
+    "cargos": [
+      "Estagiário técnico Estagiário Formare Auxiliares de Produção Operador assistente área Linha de Fibras I Operador de área Linha de Fibras II Operador de painel Linha de Fibras Consultor de produção I Consultor de engenharia de Produção Trainee programa jovens engenheiros Gerente funcional Linha de Fibras Gerente Executivo de Produção Celulose"
+    ],
+    "GHE": "34000715;\r\n32000202;\r\n32000208;\r\n32000207;\r\n32000101;\r\n32000103;",
+    "crit44Exposicao": "5 - Entre 4 e 9 pessoas; >10 <100 horas mês",
+    "perigo": [
+      {
+        "tipo": "Contato acidental",
+        "risco": [
+          {
+            "tipo": "Queimaduras; Respingos; Químico ",
+            "crit1Lesao": [
+              "Dermatoses",
+              "  Queimaduras químicas "
+            ],
+            "crit31NaturDoRisc": "QUÍMICO",
+            "crit41Prob": "2 - Remota",
+            "crit42SitControl": "3 - EPI",
+            "crit42Concentracao": "2 - Médio",
+            "crit4Severidade": "1 - Levemente Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\nUTILIZAÇÃO DA CAMISA MANGA LONGA",
+              "\r\nUTILIZAR MASCARA COM FILTRO",
+              "\r\nSeguir procedimento padrão para execução de atividade obedecendo a liberação e EPIs adequados",
+              "\r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA DE RECONHECIMENTO EM SSQV",
+              "\r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 60,
+            "significanciaRisco": "Moderada Significante"
+          }
+        ]
+      },
+      {
+        "tipo": "Radiação não ionizante",
+        "risco": [
+          {
+            "tipo": "Exposição",
+            "crit1Lesao": [
+              "Mal estar",
+              " Dermatite"
+            ],
+            "crit31NaturDoRisc": "FÍSICO",
+            "crit41Prob": "2 - Remota",
+            "crit42SitControl": "2 - Administrativo",
+            "crit42Concentracao": "1 - Baixo",
+            "crit4Severidade": "1 - Levemente Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\nUTILIZAÇÃO DA CAMISA MANGA LONGA",
+              "\r\nUTILIZAR MASCARA COM FILTRO",
+              "\r\nSeguir procedimento padrão para execução de atividade obedecendo a liberação e EPIs adequados",
+              "\r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA DE RECONHECIMENTO EM SSQV",
+              "\r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 20,
+            "significanciaRisco": "Moderada Significante"
+          }
+        ]
+      },
+      {
+        "tipo": "Material particulado",
+        "risco": [
+          {
+            "tipo": "Inalação ",
+            "crit1Lesao": [
+              "Alergia",
+              " Dermatite"
+            ],
+            "crit31NaturDoRisc": "FÍSICO",
+            "crit41Prob": "2 - Remota",
+            "crit42SitControl": "3 - EPI",
+            "crit42Concentracao": "1 - Baixo",
+            "crit4Severidade": "1 - Levemente Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\nUTILIZAÇÃO DA CAMISA MANGA LONGA",
+              "\r\nUTILIZAR MASCARA COM FILTRO",
+              "\r\nSeguir procedimento padrão para execução de atividade obedecendo a liberação e EPIs adequados",
+              "\r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA DE RECONHECIMENTO EM SSQV",
+              "\r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 30,
+            "significanciaRisco": "Moderada Significante"
+          }
+        ]
+      },
+      {
+        "tipo": "FALTA PLANEJAMENTO PARA EXECUÇÃO DA ATIVIDADE",
+        "risco": [
+          {
+            "tipo": "Falta de orientação/conhecimento",
+            "crit1Lesao": [
+              "Contusão",
+              " Corte\r\n"
+            ],
+            "crit31NaturDoRisc": "ACIDENTES",
+            "crit41Prob": "2 - Remota",
+            "crit42SitControl": "2 - Administrativo",
+            "crit42Concentracao": "1 - Baixo",
+            "crit4Severidade": "1 - Levemente Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\nUTILIZAÇÃO DA CAMISA MANGA LONGA",
+              "\r\nUTILIZAR MASCARA COM FILTRO",
+              "\r\nSeguir procedimento padrão para execução de atividade obedecendo a liberação e EPIs adequados",
+              "\r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA DE RECONHECIMENTO EM SSQV",
+              "\r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 20,
+            "significanciaRisco": "Moderada Significante"
+          }
+        ]
+      },
+      {
+        "tipo": "CALOR",
+        "risco": [
+          {
+            "tipo": "Exposição",
+            "crit1Lesao": [
+              "Insolação"
+            ],
+            "crit31NaturDoRisc": "FÍSICO",
+            "crit41Prob": "2 - Remota",
+            "crit42SitControl": "2 - Administrativo",
+            "crit42Concentracao": "1 - Baixo",
+            "crit4Severidade": "1 - Levemente Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\nUTILIZAÇÃO DA CAMISA MANGA LONGA",
+              "\r\nUTILIZAR MASCARA COM FILTRO",
+              "\r\nSeguir procedimento padrão para execução de atividade obedecendo a liberação e EPIs adequados",
+              "\r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA DE RECONHECIMENTO EM SSQV",
+              "\r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 20,
+            "significanciaRisco": "Moderada Significante"
+          }
+        ]
+      },
+      {
+        "tipo": "Ferramentas inadequadas ou defeituosas",
+        "risco": [
+          {
+            "tipo": "Bater Contra",
+            "crit1Lesao": [
+              "Contusão",
+              " Cortes\r\n"
+            ],
+            "crit31NaturDoRisc": "ACIDENTES",
+            "crit41Prob": "2 - Remota",
+            "crit42SitControl": "3 - EPI",
+            "crit42Concentracao": "2 - Médio",
+            "crit4Severidade": "2 - Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\nUTILIZAÇÃO DA CAMISA MANGA LONGA",
+              "\r\nUTILIZAR MASCARA COM FILTRO",
+              "\r\nSeguir procedimento padrão para execução de atividade obedecendo a liberação e EPIs adequados",
+              "\r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA DE RECONHECIMENTO EM SSQV",
+              "\r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 120,
+            "significanciaRisco": "Substancial Significante"
+          }
+        ]
+      },
+      {
+        "tipo": "Substâncias químicas",
+        "risco": [
+          {
+            "tipo": "Contato acidental",
+            "crit1Lesao": [
+              "Queimadura química"
+            ],
+            "crit31NaturDoRisc": "QUÍMICO",
+            "crit41Prob": "2 - Remota",
+            "crit42SitControl": "3 - EPI",
+            "crit42Concentracao": "2 - Médio",
+            "crit4Severidade": "2 - Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\nUTILIZAÇÃO DA CAMISA MANGA LONGA",
+              "\r\nUTILIZAR MASCARA COM FILTRO",
+              "\r\nSeguir procedimento padrão para execução de atividade obedecendo a liberação e EPIs adequados",
+              "\r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA DE RECONHECIMENTO EM SSQV",
+              "\r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 120,
+            "significanciaRisco": "Substancial Significante"
+          }
+        ]
+      },
+      {
+        "tipo": "Queda do mesmo nivel",
+        "risco": [
+          {
+            "tipo": "Corte",
+            "crit1Lesao": [
+              "Contusão",
+              " Fraturas",
+              " Cortes\r\n"
+            ],
+            "crit31NaturDoRisc": "ACIDENTES",
+            "crit41Prob": "2 - Remota",
+            "crit42SitControl": "2 - Administrativo",
+            "crit42Concentracao": "1 - Baixo",
+            "crit4Severidade": "1 - Levemente Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\nUTILIZAÇÃO DA CAMISA MANGA LONGA",
+              "\r\nUTILIZAR MASCARA COM FILTRO",
+              "\r\nSeguir procedimento padrão para execução de atividade obedecendo a liberação e EPIs adequados",
+              "\r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA DE RECONHECIMENTO EM SSQV",
+              "\r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 20,
+            "significanciaRisco": "Moderada Significante"
+          }
+        ]
+      },
+      {
+        "tipo": "Animais peçonhentos e/ou insetos ",
+        "risco": [
+          {
+            "tipo": "Ataque/ picada/ mordida",
+            "crit1Lesao": [
+              "Alergias",
+              " Envenenamento sistêmico",
+              " Hematoma",
+              " Irritação de pele/ Doenças de pele"
+            ],
+            "crit31NaturDoRisc": "ACIDENTES",
+            "crit41Prob": "1 - Improvável",
+            "crit42SitControl": "2 - Administrativo",
+            "crit42Concentracao": "1 - Baixo",
+            "crit4Severidade": "1 - Levemente Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\nUTILIZAÇÃO DA CAMISA MANGA LONGA",
+              "\r\nUTILIZAR MASCARA COM FILTRO",
+              "\r\nSeguir procedimento padrão para execução de atividade obedecendo a liberação e EPIs adequados",
+              "\r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA DE RECONHECIMENTO EM SSQV",
+              "\r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 10,
+            "significanciaRisco": "Aceitável Insignificante"
+          }
+        ]
+      },
+      {
+        "tipo": "Descer e subir escadas",
+        "risco": [
+          {
+            "tipo": "Cansaço",
+            "crit1Lesao": [
+              "Cansaço",
+              " Queda de mesmo nivel",
+              " Cãibra"
+            ],
+            "crit31NaturDoRisc": "ACIDENTES",
+            "crit41Prob": "2 - Remota",
+            "crit42SitControl": "2 - Administrativo",
+            "crit42Concentracao": "1 - Baixo",
+            "crit4Severidade": "1 - Levemente Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\nUTILIZAÇÃO DA CAMISA MANGA LONGA",
+              "\r\nUTILIZAR MASCARA COM FILTRO",
+              "\r\nSeguir procedimento padrão para execução de atividade obedecendo a liberação e EPIs adequados",
+              "\r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA DE RECONHECIMENTO EM SSQV",
+              "\r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 20,
+            "significanciaRisco": "Moderada Significante"
+          }
+        ]
+      },
+      {
+        "tipo": "Piso irregular e/ou escorregadio",
+        "risco": [
+          {
+            "tipo": "Queda de mesmo nível",
+            "crit1Lesao": [
+              "Ferimentos / escoriações graves\r\nFerimentos / escoriações leves"
+            ],
+            "crit31NaturDoRisc": "ACIDENTES",
+            "crit41Prob": "2 - Remota",
+            "crit42SitControl": "2 - Administrativo",
+            "crit42Concentracao": "2 - Médio",
+            "crit4Severidade": "1 - Levemente Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\nUTILIZAÇÃO DA CAMISA MANGA LONGA",
+              "\r\nUTILIZAR MASCARA COM FILTRO",
+              "\r\nSeguir procedimento padrão para execução de atividade obedecendo a liberação e EPIs adequados",
+              "\r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA DE RECONHECIMENTO EM SSQV",
+              "\r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 40,
+            "significanciaRisco": "Moderada Significante"
+          }
+        ]
+      }
+    ],
+    "partesInteressadas": "Sim",
+    "responsavel": "George Lucas Oliveira de Sousa",
+    "editores": "Leomir Morais dos Anjos ",
+    "aprovadores": "Evaldo Soares Boaventura",
+    "linkAprovacao": "INDUSTRIAL IMPERATRIZ"
+  },
+  {
+    "id": "xFCcQlTUzM",
+    "titulo": "Operação de Área Linha de Fibras",
+    "tarefa": "Coleta de amostra de cavacos",
+    "situacaoOp": "Normal",
+    "cargos": [
+      "Auxiliares de Produção Operador assistente área Linha de Fibras I Operador de área Linha de Fibras II "
+    ],
+    "GHE": "32000208;\r\n32000207;",
+    "crit44Exposicao": "5 - Entre 4 e 9 pessoas; >10 <100 horas mês",
+    "perigo": [
+      {
+        "tipo": "Ruido",
+        "risco": [
+          {
+            "tipo": "Exposição",
+            "crit1Lesao": [
+              "Perda ou diminuição de sentido (audição",
+              " visão",
+              " olfato",
+              " paladar e tato)"
+            ],
+            "crit31NaturDoRisc": "FÍSICO",
+            "crit41Prob": "2 - Remota",
+            "crit42SitControl": "3 - EPI",
+            "crit42Concentracao": "2 - Médio",
+            "crit4Severidade": "1 - Levemente Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\nUTILIZAÇÃO DA CAMISA MANGA LONGA",
+              "\r\nUTILIZAR MÁSCARAS CONTRA PÓ",
+              " AST",
+              "\r\nSeguir procedimento padrão para execução de atividade obedecendo a liberação e EPIs adequados",
+              "\r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nVISTORIA PREVIA DO LOCAL",
+              "\r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA DE RECONHECIMENTO EM SSQV",
+              "\r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 60,
+            "significanciaRisco": "Moderada Significante"
+          }
+        ]
+      },
+      {
+        "tipo": "Comunicação via rádio",
+        "risco": [
+          {
+            "tipo": "Falha de comunicação",
+            "crit1Lesao": [
+              "Ferimentos / escoriações graves\r\nFerimentos / escoriações leves"
+            ],
+            "crit31NaturDoRisc": "ACIDENTES",
+            "crit41Prob": "2 - Remota",
+            "crit42SitControl": "2 - Administrativo",
+            "crit42Concentracao": "2 - Médio",
+            "crit4Severidade": "1 - Levemente Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\nUTILIZAÇÃO DA CAMISA MANGA LONGA",
+              "\r\nUTILIZAR MÁSCARAS CONTRA PÓ",
+              " AST",
+              "\r\nSeguir procedimento padrão para execução de atividade obedecendo a liberação e EPIs adequados",
+              "\r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nVISTORIA PREVIA DO LOCAL",
+              "\r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA DE RECONHECIMENTO EM SSQV",
+              "\r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 40,
+            "significanciaRisco": "Moderada Significante"
+          }
+        ]
+      },
+      {
+        "tipo": "Comportamento imprópria",
+        "risco": [
+          {
+            "tipo": "Exposição a riscos",
+            "crit1Lesao": [
+              "Alergias\r\nDermatite"
+            ],
+            "crit31NaturDoRisc": "ACIDENTES",
+            "crit41Prob": "1 - Improvável",
+            "crit42SitControl": "2 - Administrativo",
+            "crit42Concentracao": "2 - Médio",
+            "crit4Severidade": "1 - Levemente Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\nUTILIZAÇÃO DA CAMISA MANGA LONGA",
+              "\r\nUTILIZAR MÁSCARAS CONTRA PÓ",
+              " AST",
+              "\r\nSeguir procedimento padrão para execução de atividade obedecendo a liberação e EPIs adequados",
+              "\r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nVISTORIA PREVIA DO LOCAL",
+              "\r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA DE RECONHECIMENTO EM SSQV",
+              "\r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 20,
+            "significanciaRisco": "Moderada Significante"
+          }
+        ]
+      },
+      {
+        "tipo": "Material particulado",
+        "risco": [
+          {
+            "tipo": "Inalação",
+            "crit1Lesao": [
+              "Alergias\r\nDermatite"
+            ],
+            "crit31NaturDoRisc": "FÍSICO",
+            "crit41Prob": "2 - Remota",
+            "crit42SitControl": "3 - EPI",
+            "crit42Concentracao": "3 - Alto",
+            "crit4Severidade": "2 - Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\nUTILIZAÇÃO DA CAMISA MANGA LONGA",
+              "\r\nUTILIZAR MÁSCARAS CONTRA PÓ",
+              " AST",
+              "\r\nSeguir procedimento padrão para execução de atividade obedecendo a liberação e EPIs adequados",
+              "\r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nVISTORIA PREVIA DO LOCAL",
+              "\r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA DE RECONHECIMENTO EM SSQV",
+              "\r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 180,
+            "significanciaRisco": "Substancial Significante"
+          }
+        ]
+      }
+    ],
+    "partesInteressadas": "Sim",
+    "responsavel": "Paulo Jose de Castro",
+    "editores": "Matheus Gomes de Cena",
+    "aprovadores": "Vinicius Azevedo de Medeiros",
+    "linkAprovacao": "INDUSTRIAL IMPERATRIZ"
+  },
+  {
+    "id": "cN4r6CuezL",
+    "titulo": "Operação de Área Linha de Fibras",
+    "tarefa": "Coleta de amostra de licos Branco",
+    "situacaoOp": "Normal",
+    "cargos": [
+      "Auxiliares de Produção Operador assistente área Linha de Fibras I Operador de área Linha de Fibras II "
+    ],
+    "GHE": "32000208;\r\n32000207;",
+    "crit44Exposicao": "5 - Entre 4 e 9 pessoas; >10 <100 horas mês",
+    "perigo": [
+      {
+        "tipo": "CONTATO COM MATERIAS VÁLVULAS/ REGISTROS/ CONEXÕES",
+        "risco": [
+          {
+            "tipo": "Interpretação equivocada de regras",
+            "crit1Lesao": [
+              "Queimadura"
+            ],
+            "crit31NaturDoRisc": "ACIDENTES",
+            "crit41Prob": "2 - Remota",
+            "crit42SitControl": "2 - Administrativo",
+            "crit42Concentracao": "2 - Médio",
+            "crit4Severidade": "2 - Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\nPROTETOR AURICULAR",
+              "\r\nCONJUNTO IMPERMEÁVEL ",
+              "\r\nSeguir procedimento padrão para execução de atividade obedecendo a liberação e EPIs adequados",
+              "\r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nVISTORIA PREVIA DO LOCAL",
+              "\r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA DE RECONHECIMENTO EM SSQV",
+              "\r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 80,
+            "significanciaRisco": "Moderada Significante"
+          }
+        ]
+      },
+      {
+        "tipo": "Substâncias químicas",
+        "risco": [
+          {
+            "tipo": "contato com a pele; inalação; contato com os olhos",
+            "crit1Lesao": [
+              "Ferimentos / escoriações graves\r\nFerimentos / escoriações leves\r\nMal estar\r\nDermatite\r\nIRRITAÇÃO DE PELE"
+            ],
+            "crit31NaturDoRisc": "QUÍMICO",
+            "crit41Prob": "2 - Remota",
+            "crit42SitControl": "3 - EPI",
+            "crit42Concentracao": "2 - Médio",
+            "crit4Severidade": "2 - Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\nPROTETOR AURICULAR",
+              "\r\nCONJUNTO IMPERMEÁVEL ",
+              "\r\nSeguir procedimento padrão para execução de atividade obedecendo a liberação e EPIs adequados",
+              "\r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nVISTORIA PREVIA DO LOCAL",
+              "\r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA DE RECONHECIMENTO EM SSQV",
+              "\r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 120,
+            "significanciaRisco": "Substancial Significante"
+          }
+        ]
+      },
+      {
+        "tipo": "Ruído",
+        "risco": [
+          {
+            "tipo": "Exposição",
+            "crit1Lesao": [
+              "Perda auditiva induzida por ruído"
+            ],
+            "crit31NaturDoRisc": "FÍSICO",
+            "crit41Prob": "2 - Remota",
+            "crit42SitControl": "3 - EPI",
+            "crit42Concentracao": "2 - Médio",
+            "crit4Severidade": "2 - Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\nPROTETOR AURICULAR",
+              "\r\nCONJUNTO IMPERMEÁVEL ",
+              "\r\nSeguir procedimento padrão para execução de atividade obedecendo a liberação e EPIs adequados",
+              "\r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nVISTORIA PREVIA DO LOCAL",
+              "\r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA DE RECONHECIMENTO EM SSQV",
+              "\r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 120,
+            "significanciaRisco": "Substancial Significante"
+          }
+        ]
+      },
+      {
+        "tipo": "Contato acidental",
+        "risco": [
+          {
+            "tipo": "Queimadura Térmica",
+            "crit1Lesao": [
+              "Queimaduras localizadas de 1º grau\r\nQueimaduras químicas\r\nQueimaduras localizadas de 2º grau"
+            ],
+            "crit31NaturDoRisc": "ACIDENTES",
+            "crit41Prob": "2 - Remota",
+            "crit42SitControl": "3 - EPI",
+            "crit42Concentracao": "2 - Médio",
+            "crit4Severidade": "2 - Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\nPROTETOR AURICULAR",
+              "\r\nCONJUNTO IMPERMEÁVEL ",
+              "\r\nSeguir procedimento padrão para execução de atividade obedecendo a liberação e EPIs adequados",
+              "\r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nVISTORIA PREVIA DO LOCAL",
+              "\r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA DE RECONHECIMENTO EM SSQV",
+              "\r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 120,
+            "significanciaRisco": "Substancial Significante"
+          }
+        ]
+      }
+    ],
+    "partesInteressadas": "Sim",
+    "responsavel": "Paulo Jose de Castro",
+    "editores": "Matheus Gomes de Cena",
+    "aprovadores": "Vinicius Azevedo de Medeiros",
+    "linkAprovacao": "INDUSTRIAL IMPERATRIZ"
+  },
+  {
+    "id": "8ucc4I3H6U",
+    "titulo": "Operação de Área Linha de Fibras",
+    "tarefa": "Coleta de amostra de licos Preto",
+    "situacaoOp": "Normal",
+    "cargos": [
+      "Auxiliares de Produção Operador assistente área Linha de Fibras I Operador de área Linha de Fibras II "
+    ],
+    "GHE": "32000208;\r\n32000207;",
+    "crit44Exposicao": "5 - Entre 4 e 9 pessoas; >10 <100 horas mês",
+    "perigo": [
+      {
+        "tipo": "CONTATO COM MATERIAS VÁLVULAS/ REGISTROS/ CONEXÕES",
+        "risco": [
+          {
+            "tipo": "Interpretação equivocada de regras",
+            "crit1Lesao": [
+              "Queimadura"
+            ],
+            "crit31NaturDoRisc": "ACIDENTES",
+            "crit41Prob": "2 - Remota",
+            "crit42SitControl": "2 - Administrativo",
+            "crit42Concentracao": "2 - Médio",
+            "crit4Severidade": "2 - Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\nPROTETOR AURICULAR",
+              "\r\nCONJUNTO IMPERMEÁVEL ",
+              "\r\nSeguir procedimento padrão para execução de atividade obedecendo a liberação e EPIs adequados",
+              "\r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nVISTORIA PREVIA DO LOCAL",
+              "\r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA DE RECONHECIMENTO EM SSQV",
+              "\r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 80,
+            "significanciaRisco": "Moderada Significante"
+          }
+        ]
+      },
+      {
+        "tipo": "Substâncias químicas",
+        "risco": [
+          {
+            "tipo": "contato com a pele; inalação; contato com os olhos",
+            "crit1Lesao": [
+              "Ferimentos / escoriações graves\r\nFerimentos / escoriações leves\r\nMal estar\r\nDermatite\r\nIRRITAÇÃO DE PELE"
+            ],
+            "crit31NaturDoRisc": "QUÍMICO",
+            "crit41Prob": "2 - Remota",
+            "crit42SitControl": "3 - EPI",
+            "crit42Concentracao": "2 - Médio",
+            "crit4Severidade": "2 - Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\nPROTETOR AURICULAR",
+              "\r\nCONJUNTO IMPERMEÁVEL ",
+              "\r\nSeguir procedimento padrão para execução de atividade obedecendo a liberação e EPIs adequados",
+              "\r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nVISTORIA PREVIA DO LOCAL",
+              "\r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA DE RECONHECIMENTO EM SSQV",
+              "\r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 120,
+            "significanciaRisco": "Substancial Significante"
+          }
+        ]
+      },
+      {
+        "tipo": "Contato acidental",
+        "risco": [
+          {
+            "tipo": "Queimadura Térmica",
+            "crit1Lesao": [
+              "Queimaduras localizadas de 1º grau\r\nQueimaduras químicas\r\nQueimaduras localizadas de 2º grau"
+            ],
+            "crit31NaturDoRisc": "ACIDENTES",
+            "crit41Prob": "2 - Remota",
+            "crit42SitControl": "3 - EPI",
+            "crit42Concentracao": "2 - Médio",
+            "crit4Severidade": "2 - Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\nPROTETOR AURICULAR",
+              "\r\nCONJUNTO IMPERMEÁVEL ",
+              "\r\nSeguir procedimento padrão para execução de atividade obedecendo a liberação e EPIs adequados",
+              "\r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nVISTORIA PREVIA DO LOCAL",
+              "\r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA DE RECONHECIMENTO EM SSQV",
+              "\r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 120,
+            "significanciaRisco": "Substancial Significante"
+          }
+        ]
+      }
+    ],
+    "partesInteressadas": "Sim",
+    "responsavel": "Paulo Jose de Castro",
+    "editores": "Matheus Gomes de Cena",
+    "aprovadores": "Vinicius Azevedo de Medeiros",
+    "linkAprovacao": "INDUSTRIAL IMPERATRIZ"
+  },
+  {
+    "id": "mJ3_AdwL87",
+    "titulo": "Operação de Área Linha de Fibras",
+    "tarefa": "Coleta de amostra de licos Preto residuais",
+    "situacaoOp": "Normal",
+    "cargos": [
+      "Auxiliares de Produção Operador assistente área Linha de Fibras I Operador de área Linha de Fibras II "
+    ],
+    "GHE": "32000208;\r\n32000207;",
+    "crit44Exposicao": "5 - Entre 4 e 9 pessoas; >10 <100 horas mês",
+    "perigo": [
+      {
+        "tipo": "Ruído",
+        "risco": [
+          {
+            "tipo": "Exposição",
+            "crit1Lesao": [
+              "Perda auditiva induzida por ruído"
+            ],
+            "crit31NaturDoRisc": "FÍSICO",
+            "crit41Prob": "2 - Remota",
+            "crit42SitControl": "3 - EPI",
+            "crit42Concentracao": "2 - Médio",
+            "crit4Severidade": "2 - Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\nPROTETOR AURICULAR",
+              "\r\nCONJUNTO IMPERMEÁVEL ",
+              "\r\nSeguir procedimento padrão para execução de atividade obedecendo a liberação e EPIs adequados",
+              "\r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nVISTORIA PREVIA DO LOCAL",
+              "\r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA DE RECONHECIMENTO EM SSQV",
+              "\r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 120,
+            "significanciaRisco": "Substancial Significante"
+          }
+        ]
+      },
+      {
+        "tipo": "CONTATO COM MATERIAS VÁLVULAS/ REGISTROS/ CONEXÕES",
+        "risco": [
+          {
+            "tipo": "Interpretação equivocada de regras",
+            "crit1Lesao": [
+              "Queimadura"
+            ],
+            "crit31NaturDoRisc": "ACIDENTES",
+            "crit41Prob": "2 - Remota",
+            "crit42SitControl": "2 - Administrativo",
+            "crit42Concentracao": "2 - Médio",
+            "crit4Severidade": "2 - Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\nPROTETOR AURICULAR",
+              "\r\nCONJUNTO IMPERMEÁVEL ",
+              "\r\nSeguir procedimento padrão para execução de atividade obedecendo a liberação e EPIs adequados",
+              "\r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nVISTORIA PREVIA DO LOCAL",
+              "\r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA DE RECONHECIMENTO EM SSQV",
+              "\r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 80,
+            "significanciaRisco": "Moderada Significante"
+          }
+        ]
+      },
+      {
+        "tipo": "Substâncias químicas",
+        "risco": [
+          {
+            "tipo": "contato com a pele; inalação; contato com os olhos",
+            "crit1Lesao": [
+              "Ferimentos / escoriações graves\r\nFerimentos / escoriações leves\r\nMal estar\r\nDermatite\r\nIRRITAÇÃO DE PELE"
+            ],
+            "crit31NaturDoRisc": "QUÍMICO",
+            "crit41Prob": "2 - Remota",
+            "crit42SitControl": "3 - EPI",
+            "crit42Concentracao": "2 - Médio",
+            "crit4Severidade": "2 - Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\nPROTETOR AURICULAR",
+              "\r\nCONJUNTO IMPERMEÁVEL ",
+              "\r\nSeguir procedimento padrão para execução de atividade obedecendo a liberação e EPIs adequados",
+              "\r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nVISTORIA PREVIA DO LOCAL",
+              "\r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA DE RECONHECIMENTO EM SSQV",
+              "\r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 120,
+            "significanciaRisco": "Substancial Significante"
+          }
+        ]
+      }
+    ],
+    "partesInteressadas": "Sim",
+    "responsavel": "Paulo Jose de Castro",
+    "editores": "Matheus Gomes de Cena",
+    "aprovadores": "Vinicius Azevedo de Medeiros",
+    "linkAprovacao": "INDUSTRIAL IMPERATRIZ"
+  },
+  {
+    "id": "mM7viHouel",
+    "titulo": "Operação de Área Linha de Fibras",
+    "tarefa": "Coleta de amostra de polpa  de celulose",
+    "situacaoOp": "Normal",
+    "cargos": [
+      "Auxiliares de Produção Operador assistente área Linha de Fibras I Operador de área Linha de Fibras II "
+    ],
+    "GHE": "32000208;\r\n32000207;",
+    "crit44Exposicao": "5 - Entre 4 e 9 pessoas; >10 <100 horas mês",
+    "perigo": [
+      {
+        "tipo": "CONTATO COM MATERIAS VÁLVULAS/ REGISTROS/ CONEXÕES",
+        "risco": [
+          {
+            "tipo": "Interpretação equivocada de regras",
+            "crit1Lesao": [
+              "Queimadura"
+            ],
+            "crit31NaturDoRisc": "ACIDENTES",
+            "crit41Prob": "2 - Remota",
+            "crit42SitControl": "2 - Administrativo",
+            "crit42Concentracao": "2 - Médio",
+            "crit4Severidade": "2 - Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\nPROTETOR AURICULAR",
+              "\r\nCONJUNTO IMPERMEÁVEL ",
+              "\r\nSeguir procedimento padrão para execução de atividade obedecendo a liberação e EPIs adequados",
+              "\r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nVISTORIA PREVIA DO LOCAL",
+              "\r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA DE RECONHECIMENTO EM SSQV",
+              "\r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 80,
+            "significanciaRisco": "Moderada Significante"
+          }
+        ]
+      },
+      {
+        "tipo": "Contato acidental",
+        "risco": [
+          {
+            "tipo": "Queimadura Térmica",
+            "crit1Lesao": [
+              "Queimaduras localizadas de 1º grau\r\nQueimaduras químicas\r\nQueimaduras localizadas de 2º grau"
+            ],
+            "crit31NaturDoRisc": "ACIDENTES",
+            "crit41Prob": "2 - Remota",
+            "crit42SitControl": "3 - EPI",
+            "crit42Concentracao": "2 - Médio",
+            "crit4Severidade": "2 - Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\nPROTETOR AURICULAR",
+              "\r\nCONJUNTO IMPERMEÁVEL ",
+              "\r\nSeguir procedimento padrão para execução de atividade obedecendo a liberação e EPIs adequados",
+              "\r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nVISTORIA PREVIA DO LOCAL",
+              "\r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA DE RECONHECIMENTO EM SSQV",
+              "\r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 120,
+            "significanciaRisco": "Substancial Significante"
+          }
+        ]
+      },
+      {
+        "tipo": "Piso irregular e/ou escorregadio",
+        "risco": [
+          {
+            "tipo": "Queda de mesmo nível; Desequilíbrio ",
+            "crit1Lesao": [
+              "Ferimentos / escoriações leves\r\nEscoriações Leves"
+            ],
+            "crit31NaturDoRisc": "ACIDENTES",
+            "crit41Prob": "1 - Improvável",
+            "crit42SitControl": "2 - Administrativo",
+            "crit42Concentracao": "1 - Baixo",
+            "crit4Severidade": "1 - Levemente Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\nPROTETOR AURICULAR",
+              "\r\nCONJUNTO IMPERMEÁVEL ",
+              "\r\nSeguir procedimento padrão para execução de atividade obedecendo a liberação e EPIs adequados",
+              "\r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nVISTORIA PREVIA DO LOCAL",
+              "\r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA DE RECONHECIMENTO EM SSQV",
+              "\r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 10,
+            "significanciaRisco": "Aceitável Insignificante"
+          }
+        ]
+      }
+    ],
+    "partesInteressadas": "Sim",
+    "responsavel": "Paulo Jose de Castro",
+    "editores": "Matheus Gomes de Cena",
+    "aprovadores": "Vinicius Azevedo de Medeiros",
+    "linkAprovacao": "INDUSTRIAL IMPERATRIZ"
+  },
+  {
+    "id": "u8ZBESrgZV",
+    "titulo": "Operação de Área Linha de Fibras",
+    "tarefa": "Coleta de filtrados das prensas",
+    "situacaoOp": "Normal",
+    "cargos": [
+      "Auxiliares de Produção Operador assistente área Linha de Fibras I Operador de área Linha de Fibras II "
+    ],
+    "GHE": "32000208;\r\n32000207;",
+    "crit44Exposicao": "5 - Entre 4 e 9 pessoas; >10 <100 horas mês",
+    "perigo": [
+      {
+        "tipo": "CONTATO COM MATERIAS VÁLVULAS/ REGISTROS/ CONEXÕES",
+        "risco": [
+          {
+            "tipo": "Interpretação equivocada de regras",
+            "crit1Lesao": [
+              "Queimadura"
+            ],
+            "crit31NaturDoRisc": "ACIDENTES",
+            "crit41Prob": "2 - Remota",
+            "crit42SitControl": "2 - Administrativo",
+            "crit42Concentracao": "2 - Médio",
+            "crit4Severidade": "2 - Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\nPROTETOR AURICULAR",
+              "\r\nCONJUNTO IMPERMEÁVEL ",
+              "\r\nSeguir procedimento padrão para execução de atividade obedecendo a liberação e EPIs adequados",
+              "\r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nVISTORIA PREVIA DO LOCAL",
+              "\r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA DE RECONHECIMENTO EM SSQV",
+              "\r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 80,
+            "significanciaRisco": "Moderada Significante"
+          }
+        ]
+      },
+      {
+        "tipo": "Piso irregular e/ou escorregadio",
+        "risco": [
+          {
+            "tipo": "Queda de mesmo nível; Desequilíbrio ",
+            "crit1Lesao": [
+              "Ferimentos / escoriações leves\r\nEscoriações Leves"
+            ],
+            "crit31NaturDoRisc": "ACIDENTES",
+            "crit41Prob": "1 - Improvável",
+            "crit42SitControl": "2 - Administrativo",
+            "crit42Concentracao": "1 - Baixo",
+            "crit4Severidade": "1 - Levemente Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\nPROTETOR AURICULAR",
+              "\r\nCONJUNTO IMPERMEÁVEL ",
+              "\r\nSeguir procedimento padrão para execução de atividade obedecendo a liberação e EPIs adequados",
+              "\r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nVISTORIA PREVIA DO LOCAL",
+              "\r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA DE RECONHECIMENTO EM SSQV",
+              "\r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 10,
+            "significanciaRisco": "Aceitável Insignificante"
+          }
+        ]
+      },
+      {
+        "tipo": "Calor",
+        "risco": [
+          {
+            "tipo": "Exposição ao Risco",
+            "crit1Lesao": [
+              "Calor (desconforto térmico)"
+            ],
+            "crit31NaturDoRisc": "FÍSICO",
+            "crit41Prob": "2 - Remota",
+            "crit42SitControl": "2 - Administrativo",
+            "crit42Concentracao": "2 - Médio",
+            "crit4Severidade": "2 - Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\nPROTETOR AURICULAR",
+              "\r\nCONJUNTO IMPERMEÁVEL ",
+              "\r\nSeguir procedimento padrão para execução de atividade obedecendo a liberação e EPIs adequados",
+              "\r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nVISTORIA PREVIA DO LOCAL",
+              "\r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA DE RECONHECIMENTO EM SSQV",
+              "\r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 80,
+            "significanciaRisco": "Moderada Significante"
+          }
+        ]
+      },
+      {
+        "tipo": "Substâncias químicas",
+        "risco": [
+          {
+            "tipo": "Contato",
+            "crit1Lesao": [
+              "Dermatoses\r\nFerimentos / escoriações graves\r\nFerimentos / escoriações leves\r\nQueimaduras químicas"
+            ],
+            "crit31NaturDoRisc": "QUÍMICO",
+            "crit41Prob": "2 - Remota",
+            "crit42SitControl": "3 - EPI",
+            "crit42Concentracao": "2 - Médio",
+            "crit4Severidade": "2 - Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\nPROTETOR AURICULAR",
+              "\r\nCONJUNTO IMPERMEÁVEL ",
+              "\r\nSeguir procedimento padrão para execução de atividade obedecendo a liberação e EPIs adequados",
+              "\r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nVISTORIA PREVIA DO LOCAL",
+              "\r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA DE RECONHECIMENTO EM SSQV",
+              "\r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 120,
+            "significanciaRisco": "Substancial Significante"
+          }
+        ]
+      }
+    ],
+    "partesInteressadas": "Sim",
+    "responsavel": "Paulo Jose de Castro",
+    "editores": "Matheus Gomes de Cena",
+    "aprovadores": "Vinicius Azevedo de Medeiros",
+    "linkAprovacao": "INDUSTRIAL IMPERATRIZ"
+  },
+  {
+    "id": "R_Rz8ExPtf",
+    "titulo": "Operação de Área Linha de Fibras",
+    "tarefa": "Descarregamento de Sulfato de Magnésio",
+    "situacaoOp": "Normal",
+    "cargos": [
+      "Auxiliares de Produção Operador assistente área Linha de Fibras I Operador de área Linha de Fibras II "
+    ],
+    "GHE": "32000208;\r\n32000207;",
+    "crit44Exposicao": "5 - Entre 4 e 9 pessoas; >10 <100 horas mês",
+    "perigo": [
+      {
+        "tipo": "Bater contra",
+        "risco": [
+          {
+            "tipo": "Acidentes diversos",
+            "crit1Lesao": [
+              "Concussão\r\nDanos materiais/equipamentos\r\nFerimentos / escoriações graves\r\nFerimentos / escoriações leves"
+            ],
+            "crit31NaturDoRisc": "ACIDENTES",
+            "crit41Prob": "1 - Improvável",
+            "crit42SitControl": "2 - Administrativo",
+            "crit42Concentracao": "1 - Baixo",
+            "crit4Severidade": "1 - Levemente Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\nPROTETOR AURICULAR",
+              "\r\nCONJUNTO IMPERMEÁVEL ",
+              "\r\nSeguir procedimento padrão para execução de atividade obedecendo a liberação e EPIs adequados",
+              "\r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nVISTORIA PREVIA DO LOCAL",
+              "\r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA DE RECONHECIMENTO EM SSQV",
+              "\r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 10,
+            "significanciaRisco": "Aceitável Insignificante"
+          }
+        ]
+      },
+      {
+        "tipo": "Abastecimento de materiais",
+        "risco": [
+          {
+            "tipo": "Interpretação equivocada de regras",
+            "crit1Lesao": [
+              "Queimadura"
+            ],
+            "crit31NaturDoRisc": "ACIDENTES",
+            "crit41Prob": "2 - Remota",
+            "crit42SitControl": "2 - Administrativo",
+            "crit42Concentracao": "2 - Médio",
+            "crit4Severidade": "2 - Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\nPROTETOR AURICULAR",
+              "\r\nCONJUNTO IMPERMEÁVEL ",
+              "\r\nSeguir procedimento padrão para execução de atividade obedecendo a liberação e EPIs adequados",
+              "\r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nVISTORIA PREVIA DO LOCAL",
+              "\r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA DE RECONHECIMENTO EM SSQV",
+              "\r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 80,
+            "significanciaRisco": "Moderada Significante"
+          }
+        ]
+      },
+      {
+        "tipo": "Substâncias químicas",
+        "risco": [
+          {
+            "tipo": "Contato",
+            "crit1Lesao": [
+              "Dermatoses\r\nFerimentos / escoriações graves\r\nFerimentos / escoriações leves\r\nQueimaduras químicas"
+            ],
+            "crit31NaturDoRisc": "QUÍMICO",
+            "crit41Prob": "1 - Improvável",
+            "crit42SitControl": "3 - EPI",
+            "crit42Concentracao": "1 - Baixo",
+            "crit4Severidade": "1 - Levemente Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\nPROTETOR AURICULAR",
+              "\r\nCONJUNTO IMPERMEÁVEL ",
+              "\r\nSeguir procedimento padrão para execução de atividade obedecendo a liberação e EPIs adequados",
+              "\r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nVISTORIA PREVIA DO LOCAL",
+              "\r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA DE RECONHECIMENTO EM SSQV",
+              "\r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 15,
+            "significanciaRisco": "Aceitável Insignificante"
+          }
+        ]
+      }
+    ],
+    "partesInteressadas": "Sim",
+    "responsavel": "Paulo Jose de Castro",
+    "editores": "Matheus Gomes de Cena",
+    "aprovadores": "Vinicius Azevedo de Medeiros",
+    "linkAprovacao": "INDUSTRIAL IMPERATRIZ"
+  },
+  {
+    "id": "VnhKmJPx2x",
+    "titulo": "Operação de Área Linha de Fibras",
+    "tarefa": "Descarregamento e operação do sistema de Anti-incrustante / Antiespumante",
+    "situacaoOp": "Normal",
+    "cargos": [
+      "Auxiliares de Produção Operador assistente área Linha de Fibras I Operador de área Linha de Fibras II "
+    ],
+    "GHE": "32000208;\r\n32000207;",
+    "crit44Exposicao": "5 - Entre 4 e 9 pessoas; >10 <100 horas mês",
+    "perigo": [
+      {
+        "tipo": "Limpeza em Tanques",
+        "risco": [
+          {
+            "tipo": "Interpretação equivocada de regras",
+            "crit1Lesao": [
+              "Queimadura"
+            ],
+            "crit31NaturDoRisc": "FÍSICO",
+            "crit41Prob": "2 - Remota",
+            "crit42SitControl": "2 - Administrativo",
+            "crit42Concentracao": "2 - Médio",
+            "crit4Severidade": "2 - Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\nPROTETOR AURICULAR",
+              "\r\nCONJUNTO IMPERMEÁVEL ",
+              "\r\nSeguir procedimento padrão para execução de atividade obedecendo a liberação e EPIs adequados",
+              "\r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nVISTORIA PREVIA DO LOCAL",
+              "\r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA DE RECONHECIMENTO EM SSQV",
+              "\r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 80,
+            "significanciaRisco": "Moderada Significante"
+          }
+        ]
+      },
+      {
+        "tipo": "Queda do mesmo nivel",
+        "risco": [
+          {
+            "tipo": "Desequilíbrio",
+            "crit1Lesao": [
+              "Contusões\r\nFraturas"
+            ],
+            "crit31NaturDoRisc": "ACIDENTES",
+            "crit41Prob": "1 - Improvável",
+            "crit42SitControl": "2 - Administrativo",
+            "crit42Concentracao": "1 - Baixo",
+            "crit4Severidade": "1 - Levemente Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\nPROTETOR AURICULAR",
+              "\r\nCONJUNTO IMPERMEÁVEL ",
+              "\r\nSeguir procedimento padrão para execução de atividade obedecendo a liberação e EPIs adequados",
+              "\r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nVISTORIA PREVIA DO LOCAL",
+              "\r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA DE RECONHECIMENTO EM SSQV",
+              "\r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 10,
+            "significanciaRisco": "Aceitável Insignificante"
+          }
+        ]
+      },
+      {
+        "tipo": "Queda de Material",
+        "risco": [
+          {
+            "tipo": "Atingido por",
+            "crit1Lesao": [
+              "Fraturas\r\nCorte"
+            ],
+            "crit31NaturDoRisc": "ACIDENTES",
+            "crit41Prob": "1 - Improvável",
+            "crit42SitControl": "2 - Administrativo",
+            "crit42Concentracao": "1 - Baixo",
+            "crit4Severidade": "1 - Levemente Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\nPROTETOR AURICULAR",
+              "\r\nCONJUNTO IMPERMEÁVEL ",
+              "\r\nSeguir procedimento padrão para execução de atividade obedecendo a liberação e EPIs adequados",
+              "\r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nVISTORIA PREVIA DO LOCAL",
+              "\r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA DE RECONHECIMENTO EM SSQV",
+              "\r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 10,
+            "significanciaRisco": "Aceitável Insignificante"
+          }
+        ]
+      },
+      {
+        "tipo": "Trabalho em Altura",
+        "risco": [
+          {
+            "tipo": "Queda de diferente nível",
+            "crit1Lesao": [
+              "Contusões\r\nEntorse\r\nFerimentos"
+            ],
+            "crit31NaturDoRisc": "ACIDENTES",
+            "crit41Prob": "1 - Improvável",
+            "crit42SitControl": "3 - EPI",
+            "crit42Concentracao": "1 - Baixo",
+            "crit4Severidade": "1 - Levemente Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\nPROTETOR AURICULAR",
+              "\r\nCONJUNTO IMPERMEÁVEL ",
+              "\r\nSeguir procedimento padrão para execução de atividade obedecendo a liberação e EPIs adequados",
+              "\r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nVISTORIA PREVIA DO LOCAL",
+              "\r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA DE RECONHECIMENTO EM SSQV",
+              "\r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 15,
+            "significanciaRisco": "Aceitável Insignificante"
+          }
+        ]
+      },
+      {
+        "tipo": "Objeto cortante ou perfurante",
+        "risco": [
+          {
+            "tipo": "Corte",
+            "crit1Lesao": [
+              "Corte",
+              " Lesão"
+            ],
+            "crit31NaturDoRisc": "ACIDENTES",
+            "crit41Prob": "2 - Remota",
+            "crit42SitControl": "2 - Administrativo",
+            "crit42Concentracao": "2 - Médio",
+            "crit4Severidade": "2 - Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\nPROTETOR AURICULAR",
+              "\r\nCONJUNTO IMPERMEÁVEL ",
+              "\r\nSeguir procedimento padrão para execução de atividade obedecendo a liberação e EPIs adequados",
+              "\r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nVISTORIA PREVIA DO LOCAL",
+              "\r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA DE RECONHECIMENTO EM SSQV",
+              "\r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 80,
+            "significanciaRisco": "Moderada Significante"
+          }
+        ]
+      },
+      {
+        "tipo": " Veículos automotores ",
+        "risco": [
+          {
+            "tipo": "Atropelamento",
+            "crit1Lesao": [
+              "Fraturas\r\nAtropelamento"
+            ],
+            "crit31NaturDoRisc": "ACIDENTES",
+            "crit41Prob": "1 - Improvável",
+            "crit42SitControl": "2 - Administrativo",
+            "crit42Concentracao": "1 - Baixo",
+            "crit4Severidade": "1 - Levemente Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\nPROTETOR AURICULAR",
+              "\r\nCONJUNTO IMPERMEÁVEL ",
+              "\r\nSeguir procedimento padrão para execução de atividade obedecendo a liberação e EPIs adequados",
+              "\r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nVISTORIA PREVIA DO LOCAL",
+              "\r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA DE RECONHECIMENTO EM SSQV",
+              "\r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 10,
+            "significanciaRisco": "Aceitável Insignificante"
+          }
+        ]
+      },
+      {
+        "tipo": "Manuseio de produto químico",
+        "risco": [
+          {
+            "tipo": "Contato com Produto Químico",
+            "crit1Lesao": [
+              "Irritação e/ou Doenças de pele\r\nIrritação em contato com a pele",
+              " olhos e vias respiratórias"
+            ],
+            "crit31NaturDoRisc": "QUÍMICO",
+            "crit41Prob": "2 - Remota",
+            "crit42SitControl": "3 - EPI",
+            "crit42Concentracao": "2 - Médio",
+            "crit4Severidade": "2 - Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\nPROTETOR AURICULAR",
+              "\r\nCONJUNTO IMPERMEÁVEL ",
+              "\r\nSeguir procedimento padrão para execução de atividade obedecendo a liberação e EPIs adequados",
+              "\r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nVISTORIA PREVIA DO LOCAL",
+              "\r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA DE RECONHECIMENTO EM SSQV",
+              "\r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 120,
+            "significanciaRisco": "Substancial Significante"
+          }
+        ]
+      },
+      {
+        "tipo": "Ruído",
+        "risco": [
+          {
+            "tipo": "Exposição ao Risco",
+            "crit1Lesao": [
+              "Perda ou diminuição de sentido (audição",
+              " visão",
+              " olfato",
+              " paladar e tato)"
+            ],
+            "crit31NaturDoRisc": "FÍSICO",
+            "crit41Prob": "1 - Improvável",
+            "crit42SitControl": "3 - EPI",
+            "crit42Concentracao": "1 - Baixo",
+            "crit4Severidade": "1 - Levemente Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\nPROTETOR AURICULAR",
+              "\r\nCONJUNTO IMPERMEÁVEL ",
+              "\r\nSeguir procedimento padrão para execução de atividade obedecendo a liberação e EPIs adequados",
+              "\r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nVISTORIA PREVIA DO LOCAL",
+              "\r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA DE RECONHECIMENTO EM SSQV",
+              "\r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 15,
+            "significanciaRisco": "Aceitável Insignificante"
+          }
+        ]
+      }
+    ],
+    "partesInteressadas": "Sim",
+    "responsavel": "Paulo Jose de Castro",
+    "editores": "Matheus Gomes de Cena",
+    "aprovadores": "Vinicius Azevedo de Medeiros",
+    "linkAprovacao": "INDUSTRIAL IMPERATRIZ"
+  },
+  {
+    "id": "jXjz46qouu",
+    "titulo": "Operação de Área Linha de Fibras",
+    "tarefa": "Descarte de residuo segregado e oleo",
+    "situacaoOp": "Normal",
+    "cargos": [
+      "Auxiliares de Produção Operador assistente área Linha de Fibras I Operador de área Linha de Fibras II "
+    ],
+    "GHE": "32000208;\r\n32000207;",
+    "crit44Exposicao": "5 - Entre 4 e 9 pessoas; >10 <100 horas mês",
+    "perigo": [
+      {
+        "tipo": "Radiação não ionizante",
+        "risco": [
+          {
+            "tipo": "Exposição aos raios solares",
+            "crit1Lesao": [
+              "Mal estar\r\nDermatite"
+            ],
+            "crit31NaturDoRisc": "FÍSICO",
+            "crit41Prob": "1 - Improvável",
+            "crit42SitControl": "2 - Administrativo",
+            "crit42Concentracao": "1 - Baixo",
+            "crit4Severidade": "1 - Levemente Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nVISTORIA PREVIA DO LOCAL",
+              "\r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 10,
+            "significanciaRisco": "Aceitável Insignificante"
+          }
+        ]
+      },
+      {
+        "tipo": "Substâncias químicas",
+        "risco": [
+          {
+            "tipo": "Contato",
+            "crit1Lesao": [
+              "Dermatoses\r\nFerimentos / escoriações graves\r\nFerimentos / escoriações leves\r\nQueimaduras químicas"
+            ],
+            "crit31NaturDoRisc": "QUÍMICO",
+            "crit41Prob": "1 - Improvável",
+            "crit42SitControl": "3 - EPI",
+            "crit42Concentracao": "1 - Baixo",
+            "crit4Severidade": "1 - Levemente Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nVISTORIA PREVIA DO LOCAL",
+              "\r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 15,
+            "significanciaRisco": "Aceitável Insignificante"
+          }
+        ]
+      },
+      {
+        "tipo": "Comportamento imprópria",
+        "risco": [
+          {
+            "tipo": "Falta de orientação/conhecimento",
+            "crit1Lesao": [
+              "Ferimentos / escoriações graves\r\nFerimentos / escoriações leves"
+            ],
+            "crit31NaturDoRisc": "ACIDENTES",
+            "crit41Prob": "1 - Improvável",
+            "crit42SitControl": "2 - Administrativo",
+            "crit42Concentracao": "1 - Baixo",
+            "crit4Severidade": "1 - Levemente Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nVISTORIA PREVIA DO LOCAL",
+              "\r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 10,
+            "significanciaRisco": "Aceitável Insignificante"
+          }
+        ]
+      },
+      {
+        "tipo": "Piso irregular e/ou escorregadio",
+        "risco": [
+          {
+            "tipo": "Queda de mesmo nível",
+            "crit1Lesao": [
+              "Ferimentos / escoriações graves\r\nFerimentos / escoriações leves\r\nEscoriações Leves"
+            ],
+            "crit31NaturDoRisc": "ACIDENTES",
+            "crit41Prob": "1 - Improvável",
+            "crit42SitControl": "2 - Administrativo",
+            "crit42Concentracao": "1 - Baixo",
+            "crit4Severidade": "1 - Levemente Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nVISTORIA PREVIA DO LOCAL",
+              "\r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 10,
+            "significanciaRisco": "Aceitável Insignificante"
+          }
+        ]
+      }
+    ],
+    "partesInteressadas": "Sim",
+    "responsavel": "Paulo Jose de Castro",
+    "editores": "Matheus Gomes de Cena",
+    "aprovadores": "Vinicius Azevedo de Medeiros",
+    "linkAprovacao": "INDUSTRIAL IMPERATRIZ"
+  },
+  {
+    "id": "tLrR1PEeYC",
+    "titulo": "Operação de Área Linha de Fibras",
+    "tarefa": "Desobstrução da linha de gases",
+    "situacaoOp": "Normal",
+    "cargos": [
+      "Auxiliares de Produção Operador assistente área Linha de Fibras I Operador de área Linha de Fibras II "
+    ],
+    "GHE": "32000208;\r\n32000207;",
+    "crit44Exposicao": "5 - Entre 4 e 9 pessoas; >10 <100 horas mês",
+    "perigo": [
+      {
+        "tipo": "Abertura de linha",
+        "risco": [
+          {
+            "tipo": "Falta de orientação/conhecimento",
+            "crit1Lesao": [
+              "Queimaduras químicas\r\nQueimadura térmica"
+            ],
+            "crit31NaturDoRisc": "QUÍMICO",
+            "crit41Prob": "2 - Remota",
+            "crit42SitControl": "2 - Administrativo",
+            "crit42Concentracao": "2 - Médio",
+            "crit4Severidade": "2 - Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\n CONJUNTO IMPERMEÁVEL:\r\nSeguir procedimento padrão para execução de atividade obedecendo a liberação e EPIs adequados",
+              "\r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nVISTORIA PREVIA DO LOCAL",
+              "\r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA DE RECONHECIMENTO EM SSQV",
+              "\r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 80,
+            "significanciaRisco": "Moderada Significante"
+          }
+        ]
+      },
+      {
+        "tipo": "GASES(NÃO INFLAMÁVEIS)",
+        "risco": [
+          {
+            "tipo": "Inalação",
+            "crit1Lesao": [
+              "Desmaio\r\nAsfixia "
+            ],
+            "crit31NaturDoRisc": "QUÍMICO",
+            "crit41Prob": "2 - Remota",
+            "crit42SitControl": "3 - EPI",
+            "crit42Concentracao": "2 - Médio",
+            "crit4Severidade": "2 - Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\n CONJUNTO IMPERMEÁVEL:\r\nSeguir procedimento padrão para execução de atividade obedecendo a liberação e EPIs adequados",
+              "\r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nVISTORIA PREVIA DO LOCAL",
+              "\r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA DE RECONHECIMENTO EM SSQV",
+              "\r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 120,
+            "significanciaRisco": "Substancial Significante"
+          }
+        ]
+      }
+    ],
+    "partesInteressadas": "Sim",
+    "responsavel": "Paulo Jose de Castro",
+    "editores": "Matheus Gomes de Cena",
+    "aprovadores": "Vinicius Azevedo de Medeiros",
+    "linkAprovacao": "INDUSTRIAL IMPERATRIZ"
+  },
+  {
+    "id": "VeNuHt7yr6",
+    "titulo": "Operação de Área Linha de Fibras",
+    "tarefa": "Desobstrução de degasagens de bombas MC",
+    "situacaoOp": "Normal",
+    "cargos": [
+      "Auxiliares de Produção Operador assistente área Linha de Fibras I Operador de área Linha de Fibras II "
+    ],
+    "GHE": "32000208;\r\n32000207;",
+    "crit44Exposicao": "5 - Entre 4 e 9 pessoas; >10 <100 horas mês",
+    "perigo": [
+      {
+        "tipo": "Substâncias químicas",
+        "risco": [
+          {
+            "tipo": "Contato",
+            "crit1Lesao": [
+              "Ferimentos / escoriações graves\r\nFerimentos / escoriações leves"
+            ],
+            "crit31NaturDoRisc": "QUÍMICO",
+            "crit41Prob": "2 - Remota",
+            "crit42SitControl": "3 - EPI",
+            "crit42Concentracao": "2 - Médio",
+            "crit4Severidade": "2 - Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\n CONJUNTO IMPERMEÁVEL:\r\nSeguir procedimento padrão para execução de atividade obedecendo a liberação e EPIs adequados",
+              "\r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nVISTORIA PREVIA DO LOCAL",
+              "\r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA DE RECONHECIMENTO EM SSQV",
+              "\r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 120,
+            "significanciaRisco": "Substancial Significante"
+          }
+        ]
+      },
+      {
+        "tipo": "Ruído",
+        "risco": [
+          {
+            "tipo": "Exposição ao Risco",
+            "crit1Lesao": [
+              "Perda ou diminuição de sentido (audição",
+              " visão",
+              " olfato",
+              " paladar e tato)"
+            ],
+            "crit31NaturDoRisc": "FÍSICO",
+            "crit41Prob": "1 - Improvável",
+            "crit42SitControl": "3 - EPI",
+            "crit42Concentracao": "1 - Baixo",
+            "crit4Severidade": "1 - Levemente Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\n CONJUNTO IMPERMEÁVEL:\r\nSeguir procedimento padrão para execução de atividade obedecendo a liberação e EPIs adequados",
+              "\r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nVISTORIA PREVIA DO LOCAL",
+              "\r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA DE RECONHECIMENTO EM SSQV",
+              "\r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 15,
+            "significanciaRisco": "Aceitável Insignificante"
+          }
+        ]
+      },
+      {
+        "tipo": "GASES(NÃO INFLAMÁVEIS)",
+        "risco": [
+          {
+            "tipo": "Inalação",
+            "crit1Lesao": [
+              "Alergias\r\nDesmaio\r\nEnvenenamento sistêmico\r\nMal estar"
+            ],
+            "crit31NaturDoRisc": "QUÍMICO",
+            "crit41Prob": "2 - Remota",
+            "crit42SitControl": "2 - Administrativo",
+            "crit42Concentracao": "2 - Médio",
+            "crit4Severidade": "2 - Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\n CONJUNTO IMPERMEÁVEL:\r\nSeguir procedimento padrão para execução de atividade obedecendo a liberação e EPIs adequados",
+              "\r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nVISTORIA PREVIA DO LOCAL",
+              "\r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA DE RECONHECIMENTO EM SSQV",
+              "\r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 80,
+            "significanciaRisco": "Moderada Significante"
+          }
+        ]
+      },
+      {
+        "tipo": "Abertura de linha",
+        "risco": [
+          {
+            "tipo": "Falta de experiência",
+            "crit1Lesao": [
+              "Queimaduras químicas\r\nQueimadura térmica"
+            ],
+            "crit31NaturDoRisc": "QUÍMICO",
+            "crit41Prob": "2 - Remota",
+            "crit42SitControl": "2 - Administrativo",
+            "crit42Concentracao": "1 - Baixo",
+            "crit4Severidade": "2 - Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\n CONJUNTO IMPERMEÁVEL:\r\nSeguir procedimento padrão para execução de atividade obedecendo a liberação e EPIs adequados",
+              "\r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nVISTORIA PREVIA DO LOCAL",
+              "\r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA DE RECONHECIMENTO EM SSQV",
+              "\r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 40,
+            "significanciaRisco": "Moderada Significante"
+          }
+        ]
+      },
+      {
+        "tipo": "Eletricidade",
+        "risco": [
+          {
+            "tipo": "Choque elétrico",
+            "crit1Lesao": [
+              "Ferimentos / escoriações graves\r\nFerimentos / escoriações leves\r\nQueimadura"
+            ],
+            "crit31NaturDoRisc": "FÍSICO",
+            "crit41Prob": "2 - Remota",
+            "crit42SitControl": "2 - Administrativo",
+            "crit42Concentracao": "2 - Médio",
+            "crit4Severidade": "2 - Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\n CONJUNTO IMPERMEÁVEL:\r\nSeguir procedimento padrão para execução de atividade obedecendo a liberação e EPIs adequados",
+              "\r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nVISTORIA PREVIA DO LOCAL",
+              "\r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA DE RECONHECIMENTO EM SSQV",
+              "\r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 80,
+            "significanciaRisco": "Moderada Significante"
+          }
+        ]
+      },
+      {
+        "tipo": "Piso irregular e/ou escorregadio",
+        "risco": [
+          {
+            "tipo": "Queda de mesmo nível",
+            "crit1Lesao": [
+              "Ferimentos / escoriações graves\r\nFerimentos / escoriações leves\r\nFerimentos"
+            ],
+            "crit31NaturDoRisc": "ACIDENTES",
+            "crit41Prob": "1 - Improvável",
+            "crit42SitControl": "2 - Administrativo",
+            "crit42Concentracao": "1 - Baixo",
+            "crit4Severidade": "1 - Levemente Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\n CONJUNTO IMPERMEÁVEL:\r\nSeguir procedimento padrão para execução de atividade obedecendo a liberação e EPIs adequados",
+              "\r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nVISTORIA PREVIA DO LOCAL",
+              "\r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA DE RECONHECIMENTO EM SSQV",
+              "\r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 10,
+            "significanciaRisco": "Aceitável Insignificante"
+          }
+        ]
+      }
+    ],
+    "partesInteressadas": "Sim",
+    "responsavel": "Paulo Jose de Castro",
+    "editores": "Matheus Gomes de Cena",
+    "aprovadores": "Vinicius Azevedo de Medeiros",
+    "linkAprovacao": "INDUSTRIAL IMPERATRIZ"
+  },
+  {
+    "id": "ozSkriV08l",
+    "titulo": "Operação de Área Linha de Fibras",
+    "tarefa": "Drenagem da planta de LBO",
+    "situacaoOp": "Normal",
+    "cargos": [
+      "Auxiliares de Produção Operador assistente área Linha de Fibras I Operador de área Linha de Fibras II "
+    ],
+    "GHE": "32000208;\r\n32000207;",
+    "crit44Exposicao": "5 - Entre 4 e 9 pessoas; >10 <100 horas mês",
+    "perigo": [
+      {
+        "tipo": "Tubulações",
+        "risco": [
+          {
+            "tipo": "Vazamento",
+            "crit1Lesao": [
+              "Ferimentos / escoriações graves\r\nFerimentos / escoriações leves\r\nLesão ocular\r\nIrritação de pele/ Doenças de pele"
+            ],
+            "crit31NaturDoRisc": "ACIDENTES",
+            "crit41Prob": "2 - Remota",
+            "crit42SitControl": "3 - EPI",
+            "crit42Concentracao": "2 - Médio",
+            "crit4Severidade": "2 - Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\n CONJUNTO IMPERMEÁVEL:\r\nSeguir procedimento padrão para execução de atividade obedecendo a liberação e EPIs adequados",
+              "\r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nVISTORIA PREVIA DO LOCAL",
+              "\r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA DE RECONHECIMENTO EM SSQV",
+              "\r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 120,
+            "significanciaRisco": "Substancial Significante"
+          }
+        ]
+      },
+      {
+        "tipo": "Radiação não ionizante",
+        "risco": [
+          {
+            "tipo": "Exposição ao Risco",
+            "crit1Lesao": [
+              "Alergias\r\nDermatoses\r\nMal estar\r\nStress"
+            ],
+            "crit31NaturDoRisc": "FÍSICO",
+            "crit41Prob": "1 - Improvável",
+            "crit42SitControl": "2 - Administrativo",
+            "crit42Concentracao": "1 - Baixo",
+            "crit4Severidade": "1 - Levemente Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\n CONJUNTO IMPERMEÁVEL:\r\nSeguir procedimento padrão para execução de atividade obedecendo a liberação e EPIs adequados",
+              "\r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nVISTORIA PREVIA DO LOCAL",
+              "\r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA DE RECONHECIMENTO EM SSQV",
+              "\r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 10,
+            "significanciaRisco": "Aceitável Insignificante"
+          }
+        ]
+      },
+      {
+        "tipo": "Piso irregular e/ou escorregadio",
+        "risco": [
+          {
+            "tipo": "Queda de mesmo nível",
+            "crit1Lesao": [
+              "Ferimentos / escoriações graves\r\nFerimentos / escoriações leves\r\nEscoriações Leves"
+            ],
+            "crit31NaturDoRisc": "ACIDENTES",
+            "crit41Prob": "2 - Remota",
+            "crit42SitControl": "2 - Administrativo",
+            "crit42Concentracao": "2 - Médio",
+            "crit4Severidade": "2 - Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\n CONJUNTO IMPERMEÁVEL:\r\nSeguir procedimento padrão para execução de atividade obedecendo a liberação e EPIs adequados",
+              "\r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nVISTORIA PREVIA DO LOCAL",
+              "\r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA DE RECONHECIMENTO EM SSQV",
+              "\r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 80,
+            "significanciaRisco": "Moderada Significante"
+          }
+        ]
+      },
+      {
+        "tipo": "Canaletas e aberturas de pisos desprotegidas",
+        "risco": [
+          {
+            "tipo": "Queda de diferente nível",
+            "crit1Lesao": [
+              "Ferimentos / escoriações graves\r\nFerimentos / escoriações leves"
+            ],
+            "crit31NaturDoRisc": "ACIDENTES",
+            "crit41Prob": "2 - Remota",
+            "crit42SitControl": "2 - Administrativo",
+            "crit42Concentracao": "2 - Médio",
+            "crit4Severidade": "2 - Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\n CONJUNTO IMPERMEÁVEL:\r\nSeguir procedimento padrão para execução de atividade obedecendo a liberação e EPIs adequados",
+              "\r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nVISTORIA PREVIA DO LOCAL",
+              "\r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA DE RECONHECIMENTO EM SSQV",
+              "\r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 80,
+            "significanciaRisco": "Moderada Significante"
+          }
+        ]
+      },
+      {
+        "tipo": "Ruído",
+        "risco": [
+          {
+            "tipo": "Exposição ao Risco",
+            "crit1Lesao": [
+              "Perda ou diminuição de sentido (audição",
+              " visão",
+              " olfato",
+              " paladar e tato)"
+            ],
+            "crit31NaturDoRisc": "FÍSICO",
+            "crit41Prob": "1 - Improvável",
+            "crit42SitControl": "3 - EPI",
+            "crit42Concentracao": "1 - Baixo",
+            "crit4Severidade": "1 - Levemente Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\n CONJUNTO IMPERMEÁVEL:\r\nSeguir procedimento padrão para execução de atividade obedecendo a liberação e EPIs adequados",
+              "\r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nVISTORIA PREVIA DO LOCAL",
+              "\r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA DE RECONHECIMENTO EM SSQV",
+              "\r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 15,
+            "significanciaRisco": "Aceitável Insignificante"
+          }
+        ]
+      }
+    ],
+    "partesInteressadas": "Sim",
+    "responsavel": "Paulo Jose de Castro",
+    "editores": "Matheus Gomes de Cena",
+    "aprovadores": "Vinicius Azevedo de Medeiros",
+    "linkAprovacao": "INDUSTRIAL IMPERATRIZ"
+  },
+  {
+    "id": "T9pYCswo5r",
+    "titulo": "Operação de Área Linha de Fibras",
+    "tarefa": "Drenagem e Limpeza de área",
+    "situacaoOp": "Normal",
+    "cargos": [
+      "Auxiliares de Produção Operador assistente área Linha de Fibras I Operador de área Linha de Fibras II "
+    ],
+    "GHE": "32000208;\r\n32000207;",
+    "crit44Exposicao": "5 - Entre 4 e 9 pessoas; >10 <100 horas mês",
+    "perigo": [
+      {
+        "tipo": "Piso irregular e/ou escorregadio",
+        "risco": [
+          {
+            "tipo": "Queda de mesmo nível",
+            "crit1Lesao": [
+              "Ferimentos / escoriações graves\r\nFerimentos / escoriações leves\r\nEscoriações Leves"
+            ],
+            "crit31NaturDoRisc": "ACIDENTES",
+            "crit41Prob": "2 - Remota",
+            "crit42SitControl": "2 - Administrativo",
+            "crit42Concentracao": "2 - Médio",
+            "crit4Severidade": "2 - Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\n CONJUNTO IMPERMEÁVEL:\r\nSeguir procedimento padrão para execução de atividade obedecendo a liberação e EPIs adequados",
+              "\r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nVISTORIA PREVIA DO LOCAL",
+              "\r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA DE RECONHECIMENTO EM SSQV",
+              "\r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 80,
+            "significanciaRisco": "Moderada Significante"
+          }
+        ]
+      },
+      {
+        "tipo": "Calor",
+        "risco": [
+          {
+            "tipo": "Exposição ao Risco",
+            "crit1Lesao": [
+              "Mal estar"
+            ],
+            "crit31NaturDoRisc": "FÍSICO",
+            "crit41Prob": "1 - Improvável",
+            "crit42SitControl": "2 - Administrativo",
+            "crit42Concentracao": "1 - Baixo",
+            "crit4Severidade": "1 - Levemente Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\n CONJUNTO IMPERMEÁVEL:\r\nSeguir procedimento padrão para execução de atividade obedecendo a liberação e EPIs adequados",
+              "\r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nVISTORIA PREVIA DO LOCAL",
+              "\r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA DE RECONHECIMENTO EM SSQV",
+              "\r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 10,
+            "significanciaRisco": "Aceitável Insignificante"
+          }
+        ]
+      },
+      {
+        "tipo": "Radiação não ionizante",
+        "risco": [
+          {
+            "tipo": "Exposição ao Risco",
+            "crit1Lesao": [
+              "Insolação\r\nStress"
+            ],
+            "crit31NaturDoRisc": "FÍSICO",
+            "crit41Prob": "1 - Improvável",
+            "crit42SitControl": "2 - Administrativo",
+            "crit42Concentracao": "1 - Baixo",
+            "crit4Severidade": "1 - Levemente Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\n CONJUNTO IMPERMEÁVEL:\r\nSeguir procedimento padrão para execução de atividade obedecendo a liberação e EPIs adequados",
+              "\r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nVISTORIA PREVIA DO LOCAL",
+              "\r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA DE RECONHECIMENTO EM SSQV",
+              "\r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 10,
+            "significanciaRisco": "Aceitável Insignificante"
+          }
+        ]
+      },
+      {
+        "tipo": "Canaletas e aberturas de pisos desprotegidas",
+        "risco": [
+          {
+            "tipo": "Queda de diferente nível",
+            "crit1Lesao": [
+              "Ferimentos / escoriações graves\r\nFerimentos / escoriações leves"
+            ],
+            "crit31NaturDoRisc": "ACIDENTES",
+            "crit41Prob": "2 - Remota",
+            "crit42SitControl": "2 - Administrativo",
+            "crit42Concentracao": "2 - Médio",
+            "crit4Severidade": "2 - Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\n CONJUNTO IMPERMEÁVEL:\r\nSeguir procedimento padrão para execução de atividade obedecendo a liberação e EPIs adequados",
+              "\r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nVISTORIA PREVIA DO LOCAL",
+              "\r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA DE RECONHECIMENTO EM SSQV",
+              "\r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 80,
+            "significanciaRisco": "Moderada Significante"
+          }
+        ]
+      },
+      {
+        "tipo": "Ruído",
+        "risco": [
+          {
+            "tipo": "Exposição ao Risco",
+            "crit1Lesao": [
+              "Perda ou diminuição de sentido (audição",
+              " visão",
+              " olfato",
+              " paladar e tato)"
+            ],
+            "crit31NaturDoRisc": "FÍSICO",
+            "crit41Prob": "1 - Improvável",
+            "crit42SitControl": "3 - EPI",
+            "crit42Concentracao": "1 - Baixo",
+            "crit4Severidade": "1 - Levemente Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\n CONJUNTO IMPERMEÁVEL:\r\nSeguir procedimento padrão para execução de atividade obedecendo a liberação e EPIs adequados",
+              "\r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nVISTORIA PREVIA DO LOCAL",
+              "\r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA DE RECONHECIMENTO EM SSQV",
+              "\r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 15,
+            "significanciaRisco": "Aceitável Insignificante"
+          }
+        ]
+      }
+    ],
+    "partesInteressadas": "Sim",
+    "responsavel": "Paulo Jose de Castro",
+    "editores": "Matheus Gomes de Cena",
+    "aprovadores": "Vinicius Azevedo de Medeiros",
+    "linkAprovacao": "INDUSTRIAL IMPERATRIZ"
+  },
+  {
+    "id": "OW0G3XlCHc",
+    "titulo": "Operação de Área Linha de Fibras",
+    "tarefa": " Inspeção DDW",
+    "situacaoOp": "Normal",
+    "cargos": [
+      "Auxiliares de Produção Operador assistente área Linha de Fibras I Operador de área Linha de Fibras II "
+    ],
+    "GHE": "32000208;\r\n32000207;",
+    "crit44Exposicao": "5 - Entre 4 e 9 pessoas; >10 <100 horas mês",
+    "perigo": [
+      {
+        "tipo": "Ruído",
+        "risco": [
+          {
+            "tipo": "Exposição ao Risco",
+            "crit1Lesao": [
+              "Perda ou diminuição de sentido (audição",
+              " visão",
+              " olfato",
+              " paladar e tato)"
+            ],
+            "crit31NaturDoRisc": "FÍSICO",
+            "crit41Prob": "2 - Remota",
+            "crit42SitControl": "3 - EPI",
+            "crit42Concentracao": "2 - Médio",
+            "crit4Severidade": "2 - Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\nSeguir procedimento padrão para execução de atividade obedecendo a liberação e EPIs adequados",
+              "\r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nVISTORIA PREVIA DO LOCAL",
+              "\r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA DE RECONHECIMENTO EM SSQV",
+              "\r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 120,
+            "significanciaRisco": "Substancial Significante"
+          }
+        ]
+      },
+      {
+        "tipo": "Descer e subir escadas",
+        "risco": [
+          {
+            "tipo": "Capacidade de análise de risco",
+            "crit1Lesao": [
+              "Cansaço\r\nQueda de mesmo nivel"
+            ],
+            "crit31NaturDoRisc": "ACIDENTES",
+            "crit41Prob": "2 - Remota",
+            "crit42SitControl": "2 - Administrativo",
+            "crit42Concentracao": "2 - Médio",
+            "crit4Severidade": "2 - Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\nSeguir procedimento padrão para execução de atividade obedecendo a liberação e EPIs adequados",
+              "\r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nVISTORIA PREVIA DO LOCAL",
+              "\r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA DE RECONHECIMENTO EM SSQV",
+              "\r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 80,
+            "significanciaRisco": "Moderada Significante"
+          }
+        ]
+      },
+      {
+        "tipo": "Eletricidade",
+        "risco": [
+          {
+            "tipo": "Choque elétrico",
+            "crit1Lesao": [
+              "Ferimentos / escoriações graves\r\nFerimentos / escoriações leves\r\nQueimadura"
+            ],
+            "crit31NaturDoRisc": "FÍSICO",
+            "crit41Prob": "2 - Remota",
+            "crit42SitControl": "2 - Administrativo",
+            "crit42Concentracao": "2 - Médio",
+            "crit4Severidade": "2 - Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\nSeguir procedimento padrão para execução de atividade obedecendo a liberação e EPIs adequados",
+              "\r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nVISTORIA PREVIA DO LOCAL",
+              "\r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA DE RECONHECIMENTO EM SSQV",
+              "\r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 80,
+            "significanciaRisco": "Moderada Significante"
+          }
+        ]
+      },
+      {
+        "tipo": "Esforço Físico",
+        "risco": [
+          {
+            "tipo": "Fadiga",
+            "crit1Lesao": [
+              "Distensão muscular\r\nLombalgias"
+            ],
+            "crit31NaturDoRisc": "ACIDENTES",
+            "crit41Prob": "1 - Improvável",
+            "crit42SitControl": "2 - Administrativo",
+            "crit42Concentracao": "1 - Baixo",
+            "crit4Severidade": "1 - Levemente Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\nSeguir procedimento padrão para execução de atividade obedecendo a liberação e EPIs adequados",
+              "\r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nVISTORIA PREVIA DO LOCAL",
+              "\r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA DE RECONHECIMENTO EM SSQV",
+              "\r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 10,
+            "significanciaRisco": "Aceitável Insignificante"
+          }
+        ]
+      },
+      {
+        "tipo": "Substâncias químicas",
+        "risco": [
+          {
+            "tipo": "Contato Acidental",
+            "crit1Lesao": [
+              "Queimaduras químicas"
+            ],
+            "crit31NaturDoRisc": "QUÍMICO",
+            "crit41Prob": "2 - Remota",
+            "crit42SitControl": "3 - EPI",
+            "crit42Concentracao": "2 - Médio",
+            "crit4Severidade": "2 - Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\nSeguir procedimento padrão para execução de atividade obedecendo a liberação e EPIs adequados",
+              "\r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nVISTORIA PREVIA DO LOCAL",
+              "\r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA DE RECONHECIMENTO EM SSQV",
+              "\r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 120,
+            "significanciaRisco": "Substancial Significante"
+          }
+        ]
+      }
+    ],
+    "partesInteressadas": "Sim",
+    "responsavel": "Paulo Jose de Castro",
+    "editores": "Matheus Gomes de Cena",
+    "aprovadores": "Vinicius Azevedo de Medeiros",
+    "linkAprovacao": "INDUSTRIAL IMPERATRIZ"
+  },
+  {
+    "id": "OSBR1ZT5-r",
+    "titulo": "Operação de Área Linha de Fibras",
+    "tarefa": "Instalação e Manutenção no SDI",
+    "situacaoOp": "Normal",
+    "cargos": [
+      "Auxiliares de Produção Operador assistente área Linha de Fibras I Operador de área Linha de Fibras II "
+    ],
+    "GHE": "32000208;\r\n32000207;",
+    "crit44Exposicao": "5 - Entre 4 e 9 pessoas; >10 <100 horas mês",
+    "perigo": [
+      {
+        "tipo": "Substâncias químicas",
+        "risco": [
+          {
+            "tipo": "Contato Acidental",
+            "crit1Lesao": [
+              "Queimaduras químicas"
+            ],
+            "crit31NaturDoRisc": "QUÍMICO",
+            "crit41Prob": "2 - Remota",
+            "crit42SitControl": "3 - EPI",
+            "crit42Concentracao": "2 - Médio",
+            "crit4Severidade": "2 - Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\nSeguir procedimento padrão para execução de atividade obedecendo a liberação e EPIs adequados",
+              "\r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nVISTORIA PREVIA DO LOCAL",
+              "\r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA DE RECONHECIMENTO EM SSQV",
+              "\r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 120,
+            "significanciaRisco": "Substancial Significante"
+          }
+        ]
+      },
+      {
+        "tipo": "Máquinas e/ou equipamentos",
+        "risco": [
+          {
+            "tipo": "Bater contra",
+            "crit1Lesao": [
+              "Ferimentos / escoriações graves\r\nFerimentos / escoriações leves"
+            ],
+            "crit31NaturDoRisc": "ACIDENTES",
+            "crit41Prob": "1 - Improvável",
+            "crit42SitControl": "2 - Administrativo",
+            "crit42Concentracao": "1 - Baixo",
+            "crit4Severidade": "1 - Levemente Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\nSeguir procedimento padrão para execução de atividade obedecendo a liberação e EPIs adequados",
+              "\r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nVISTORIA PREVIA DO LOCAL",
+              "\r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA DE RECONHECIMENTO EM SSQV",
+              "\r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 10,
+            "significanciaRisco": "Aceitável Insignificante"
+          }
+        ]
+      }
+    ],
+    "partesInteressadas": "Sim",
+    "responsavel": "Paulo Jose de Castro",
+    "editores": "Matheus Gomes de Cena",
+    "aprovadores": "Vinicius Azevedo de Medeiros",
+    "linkAprovacao": "INDUSTRIAL IMPERATRIZ"
+  },
+  {
+    "id": "DtAxkjbq3T",
+    "titulo": "Operação de Área Linha de Fibras",
+    "tarefa": "Lavagem Quimica nas prensas",
+    "situacaoOp": "Normal",
+    "cargos": [
+      "Auxiliares de Produção Operador assistente área Linha de Fibras I Operador de área Linha de Fibras II "
+    ],
+    "GHE": "32000208;\r\n32000207;",
+    "crit44Exposicao": "5 - Entre 4 e 9 pessoas; >10 <100 horas mês",
+    "perigo": [
+      {
+        "tipo": "Radiação não ionizante",
+        "risco": [
+          {
+            "tipo": "Exposição ao Risco",
+            "crit1Lesao": [
+              "Insolação\r\nStress"
+            ],
+            "crit31NaturDoRisc": "FÍSICO",
+            "crit41Prob": "1 - Improvável",
+            "crit42SitControl": "2 - Administrativo",
+            "crit42Concentracao": "1 - Baixo",
+            "crit4Severidade": "1 - Levemente Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\n CONJUNTO IMPERMEÁVEL:\r\nSeguir procedimento padrão para execução de atividade obedecendo a liberação e EPIs adequados",
+              "\r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nVISTORIA PREVIA DO LOCAL",
+              "\r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA DE RECONHECIMENTO EM SSQV",
+              "\r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 10,
+            "significanciaRisco": "Aceitável Insignificante"
+          }
+        ]
+      },
+      {
+        "tipo": "Piso irregular e/ou escorregadio",
+        "risco": [
+          {
+            "tipo": "Queda de mesmo nível",
+            "crit1Lesao": [
+              "Ferimentos / escoriações graves\r\nFerimentos / escoriações leves\r\nEscoriações Leves"
+            ],
+            "crit31NaturDoRisc": "ACIDENTES",
+            "crit41Prob": "2 - Remota",
+            "crit42SitControl": "2 - Administrativo",
+            "crit42Concentracao": "2 - Médio",
+            "crit4Severidade": "2 - Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\n CONJUNTO IMPERMEÁVEL:\r\nSeguir procedimento padrão para execução de atividade obedecendo a liberação e EPIs adequados",
+              "\r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nVISTORIA PREVIA DO LOCAL",
+              "\r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA DE RECONHECIMENTO EM SSQV",
+              "\r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 80,
+            "significanciaRisco": "Moderada Significante"
+          }
+        ]
+      },
+      {
+        "tipo": "Contato acidental",
+        "risco": [
+          {
+            "tipo": "Queimaduras",
+            "crit1Lesao": [
+              "Queimaduras químicas"
+            ],
+            "crit31NaturDoRisc": "QUÍMICO",
+            "crit41Prob": "1 - Improvável",
+            "crit42SitControl": "2 - Administrativo",
+            "crit42Concentracao": "1 - Baixo",
+            "crit4Severidade": "1 - Levemente Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\n CONJUNTO IMPERMEÁVEL:\r\nSeguir procedimento padrão para execução de atividade obedecendo a liberação e EPIs adequados",
+              "\r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nVISTORIA PREVIA DO LOCAL",
+              "\r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA DE RECONHECIMENTO EM SSQV",
+              "\r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 10,
+            "significanciaRisco": "Aceitável Insignificante"
+          }
+        ]
+      },
+      {
+        "tipo": "Abastecimento de materiais",
+        "risco": [
+          {
+            "tipo": "Falta de experiência",
+            "crit1Lesao": [
+              "Queimaduras químicas"
+            ],
+            "crit31NaturDoRisc": "QUÍMICO",
+            "crit41Prob": "1 - Improvável",
+            "crit42SitControl": "3 - EPI",
+            "crit42Concentracao": "1 - Baixo",
+            "crit4Severidade": "2 - Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\n CONJUNTO IMPERMEÁVEL:\r\nSeguir procedimento padrão para execução de atividade obedecendo a liberação e EPIs adequados",
+              "\r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nVISTORIA PREVIA DO LOCAL",
+              "\r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA DE RECONHECIMENTO EM SSQV",
+              "\r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 30,
+            "significanciaRisco": "Moderada Significante"
+          }
+        ]
+      },
+      {
+        "tipo": "Ruído",
+        "risco": [
+          {
+            "tipo": "Exposição ao Risco",
+            "crit1Lesao": [
+              "Perda ou diminuição de sentido (audição",
+              " visão",
+              " olfato",
+              " paladar e tato)"
+            ],
+            "crit31NaturDoRisc": "FÍSICO",
+            "crit41Prob": "3 - Provável",
+            "crit42SitControl": "3 - EPI",
+            "crit42Concentracao": "3 - Alto",
+            "crit4Severidade": "2 - Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\n CONJUNTO IMPERMEÁVEL:\r\nSeguir procedimento padrão para execução de atividade obedecendo a liberação e EPIs adequados",
+              "\r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nVISTORIA PREVIA DO LOCAL",
+              "\r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA DE RECONHECIMENTO EM SSQV",
+              "\r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 270,
+            "significanciaRisco": "Inaceitável Significante"
+          }
+        ]
+      }
+    ],
+    "partesInteressadas": "Sim",
+    "responsavel": "Paulo Jose de Castro",
+    "editores": "Matheus Gomes de Cena",
+    "aprovadores": "Vinicius Azevedo de Medeiros",
+    "linkAprovacao": "INDUSTRIAL IMPERATRIZ"
+  },
+  {
+    "id": "e9DF2kSSDc",
+    "titulo": "Operação de Área Linha de Fibras",
+    "tarefa": "Liberação de acesso a ambientes confinados (Digestores;torres;tanques e reatores)",
+    "situacaoOp": "Normal",
+    "cargos": [
+      "Auxiliares de Produção Operador assistente área Linha de Fibras I Operador de área Linha de Fibras II "
+    ],
+    "GHE": "32000208;\r\n32000207;",
+    "crit44Exposicao": "5 - Entre 4 e 9 pessoas; >10 <100 horas mês",
+    "perigo": [
+      {
+        "tipo": "Espaço confinado",
+        "risco": [
+          {
+            "tipo": "Falta de experiência",
+            "crit1Lesao": [
+              "Contusões\r\nQueimaduras químicas\r\nQueimadura térmica\r\nDesconforto Térmico e Desidratação"
+            ],
+            "crit31NaturDoRisc": "QUÍMICO",
+            "crit41Prob": "1 - Improvável",
+            "crit42SitControl": "2 - Administrativo",
+            "crit42Concentracao": "1 - Baixo",
+            "crit4Severidade": "1 - Levemente Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\nSeguir procedimento padrão para execução de atividade obedecendo a liberação e EPIs adequados",
+              "\r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nVISTORIA PREVIA DO LOCAL",
+              "\r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA DE RECONHECIMENTO EM SSQV",
+              "\r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 10,
+            "significanciaRisco": "Aceitável Insignificante"
+          }
+        ]
+      },
+      {
+        "tipo": "Substâncias químicas",
+        "risco": [
+          {
+            "tipo": "Exposição ao Risco",
+            "crit1Lesao": [
+              "Queimaduras químicas\r\nMal estar\r\nDermatite"
+            ],
+            "crit31NaturDoRisc": "QUÍMICO",
+            "crit41Prob": "3 - Provável",
+            "crit42SitControl": "3 - EPI",
+            "crit42Concentracao": "2 - Médio",
+            "crit4Severidade": "2 - Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\nSeguir procedimento padrão para execução de atividade obedecendo a liberação e EPIs adequados",
+              "\r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nVISTORIA PREVIA DO LOCAL",
+              "\r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA DE RECONHECIMENTO EM SSQV",
+              "\r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 180,
+            "significanciaRisco": "Substancial Significante"
+          }
+        ]
+      }
+    ],
+    "partesInteressadas": "Sim",
+    "responsavel": "Paulo Jose de Castro",
+    "editores": "Matheus Gomes de Cena",
+    "aprovadores": "Vinicius Azevedo de Medeiros",
+    "linkAprovacao": "INDUSTRIAL IMPERATRIZ"
+  },
+  {
+    "id": "3FV4pvB_QC",
+    "titulo": "Operação de Área Linha de Fibras",
+    "tarefa": "limpeza com ar comprimido",
+    "situacaoOp": "Normal",
+    "cargos": [
+      "Auxiliares de Produção Operador assistente área Linha de Fibras I Operador de área Linha de Fibras II "
+    ],
+    "GHE": "32000208;\r\n32000207;",
+    "crit44Exposicao": "5 - Entre 4 e 9 pessoas; >10 <100 horas mês",
+    "perigo": [
+      {
+        "tipo": "Ergonomia/Prevenção",
+        "risco": [
+          {
+            "tipo": "Capacidade de análise de risco",
+            "crit1Lesao": [
+              "Câimbra\r\nCansaço"
+            ],
+            "crit31NaturDoRisc": "ERGONÔMICOS",
+            "crit41Prob": "1 - Improvável",
+            "crit42SitControl": "2 - Administrativo",
+            "crit42Concentracao": "1 - Baixo",
+            "crit4Severidade": "1 - Levemente Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\nSeguir procedimento padrão para execução de atividade obedecendo a liberação e EPIs adequados",
+              "\r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nVISTORIA PREVIA DO LOCAL",
+              "\r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA DE RECONHECIMENTO EM SSQV",
+              "\r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 10,
+            "significanciaRisco": "Aceitável Insignificante"
+          }
+        ]
+      },
+      {
+        "tipo": "Ruído",
+        "risco": [
+          {
+            "tipo": "Exposição ao Risco",
+            "crit1Lesao": [
+              "Perda ou diminuição de sentido (audição",
+              " visão",
+              " olfato",
+              " paladar e tato)"
+            ],
+            "crit31NaturDoRisc": "FÍSICO",
+            "crit41Prob": "3 - Provável",
+            "crit42SitControl": "3 - EPI",
+            "crit42Concentracao": "2 - Médio",
+            "crit4Severidade": "2 - Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\nSeguir procedimento padrão para execução de atividade obedecendo a liberação e EPIs adequados",
+              "\r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nVISTORIA PREVIA DO LOCAL",
+              "\r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA DE RECONHECIMENTO EM SSQV",
+              "\r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 180,
+            "significanciaRisco": "Substancial Significante"
+          }
+        ]
+      },
+      {
+        "tipo": "Material particulado",
+        "risco": [
+          {
+            "tipo": " contato com a pele; inalação; contato com os olhos ",
+            "crit1Lesao": [
+              " Alergias \r\n Irritação de pele/ Doenças de pele \r\n Problemas respiratórios "
+            ],
+            "crit31NaturDoRisc": "FÍSICO",
+            "crit41Prob": "2 - Remota",
+            "crit42SitControl": "2 - Administrativo",
+            "crit42Concentracao": "2 - Médio",
+            "crit4Severidade": "2 - Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\nSeguir procedimento padrão para execução de atividade obedecendo a liberação e EPIs adequados",
+              "\r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nVISTORIA PREVIA DO LOCAL",
+              "\r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA DE RECONHECIMENTO EM SSQV",
+              "\r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 80,
+            "significanciaRisco": "Moderada Significante"
+          }
+        ]
+      },
+      {
+        "tipo": "Atitude imprópria",
+        "risco": [
+          {
+            "tipo": "Exposição",
+            "crit1Lesao": [
+              "Alergias\r\nDermatoses\r\nPerda ou diminuição de sentido (audição",
+              " visão",
+              " olfato",
+              " paladar e tato)"
+            ],
+            "crit31NaturDoRisc": "ACIDENTES",
+            "crit41Prob": "1 - Improvável",
+            "crit42SitControl": "2 - Administrativo",
+            "crit42Concentracao": "1 - Baixo",
+            "crit4Severidade": "1 - Levemente Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\nSeguir procedimento padrão para execução de atividade obedecendo a liberação e EPIs adequados",
+              "\r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nVISTORIA PREVIA DO LOCAL",
+              "\r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA DE RECONHECIMENTO EM SSQV",
+              "\r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 10,
+            "significanciaRisco": "Aceitável Insignificante"
+          }
+        ]
+      }
+    ],
+    "partesInteressadas": "Sim",
+    "responsavel": "Paulo Jose de Castro",
+    "editores": "Matheus Gomes de Cena",
+    "aprovadores": "Vinicius Azevedo de Medeiros",
+    "linkAprovacao": "INDUSTRIAL IMPERATRIZ"
+  },
+  {
+    "id": "AT-KG_9mfl",
+    "titulo": "Operação de Área Linha de Fibras",
+    "tarefa": "Limpeza de Canaletas",
+    "situacaoOp": "Normal",
+    "cargos": [
+      "Auxiliares de Produção Operador assistente área Linha de Fibras I Operador de área Linha de Fibras II "
+    ],
+    "GHE": "32000208;\r\n32000207;",
+    "crit44Exposicao": "5 - Entre 4 e 9 pessoas; >10 <100 horas mês",
+    "perigo": [
+      {
+        "tipo": "Canaletas e aberturas de pisos desprotegidas",
+        "risco": [
+          {
+            "tipo": "Falta de orientação/conhecimento",
+            "crit1Lesao": [
+              "Queda de diferente nível \r\nQueimaduras"
+            ],
+            "crit31NaturDoRisc": "ACIDENTES",
+            "crit41Prob": "2 - Remota",
+            "crit42SitControl": "2 - Administrativo",
+            "crit42Concentracao": "2 - Médio",
+            "crit4Severidade": "2 - Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\nUTILIZAÇÃO DE PROTETOR AUDITIVO",
+              "\r\nUTILIZAR POSTURA CORRETA DO CORPO \r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA DE RECONHECIMENTO EM SSQV",
+              "\r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 80,
+            "significanciaRisco": "Moderada Significante"
+          }
+        ]
+      },
+      {
+        "tipo": "Substâncias químicas",
+        "risco": [
+          {
+            "tipo": "Contato acidental",
+            "crit1Lesao": [
+              "Queimadura química"
+            ],
+            "crit31NaturDoRisc": "QUÍMICO",
+            "crit41Prob": "2 - Remota",
+            "crit42SitControl": "2 - Administrativo",
+            "crit42Concentracao": "2 - Médio",
+            "crit4Severidade": "2 - Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\nUTILIZAÇÃO DE PROTETOR AUDITIVO",
+              "\r\nUTILIZAR POSTURA CORRETA DO CORPO \r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA DE RECONHECIMENTO EM SSQV",
+              "\r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 80,
+            "significanciaRisco": "Moderada Significante"
+          }
+        ]
+      },
+      {
+        "tipo": "Ruído",
+        "risco": [
+          {
+            "tipo": "Exposição ao Risco",
+            "crit1Lesao": [
+              "Perda ou diminuição de sentido (audição",
+              " visão",
+              " olfato",
+              " paladar e tato)"
+            ],
+            "crit31NaturDoRisc": "FÍSICO",
+            "crit41Prob": "2 - Remota",
+            "crit42SitControl": "3 - EPI",
+            "crit42Concentracao": "2 - Médio",
+            "crit4Severidade": "2 - Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\nUTILIZAÇÃO DE PROTETOR AUDITIVO",
+              "\r\nUTILIZAR POSTURA CORRETA DO CORPO \r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA DE RECONHECIMENTO EM SSQV",
+              "\r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 120,
+            "significanciaRisco": "Substancial Significante"
+          }
+        ]
+      },
+      {
+        "tipo": "Ferramentas inadequadas ou defeituosas",
+        "risco": [
+          {
+            "tipo": "Corte",
+            "crit1Lesao": [
+              "Lesões múltiplas"
+            ],
+            "crit31NaturDoRisc": "ACIDENTES",
+            "crit41Prob": "2 - Remota",
+            "crit42SitControl": "2 - Administrativo",
+            "crit42Concentracao": "2 - Médio",
+            "crit4Severidade": "2 - Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\nUTILIZAÇÃO DE PROTETOR AUDITIVO",
+              "\r\nUTILIZAR POSTURA CORRETA DO CORPO \r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA DE RECONHECIMENTO EM SSQV",
+              "\r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 80,
+            "significanciaRisco": "Moderada Significante"
+          }
+        ]
+      },
+      {
+        "tipo": "Piso irregular e/ou escorregadio",
+        "risco": [
+          {
+            "tipo": "Queda de mesmo nível",
+            "crit1Lesao": [
+              "Ferimentos / escoriações graves\r\nFerimentos / escoriações leves\r\nEscoriações Leves"
+            ],
+            "crit31NaturDoRisc": "ACIDENTES",
+            "crit41Prob": "1 - Improvável",
+            "crit42SitControl": "2 - Administrativo",
+            "crit42Concentracao": "1 - Baixo",
+            "crit4Severidade": "1 - Levemente Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\nUTILIZAÇÃO DE PROTETOR AUDITIVO",
+              "\r\nUTILIZAR POSTURA CORRETA DO CORPO \r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA DE RECONHECIMENTO EM SSQV",
+              "\r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 10,
+            "significanciaRisco": "Aceitável Insignificante"
+          }
+        ]
+      }
+    ],
+    "partesInteressadas": "Sim",
+    "responsavel": "Paulo Jose de Castro",
+    "editores": "Matheus Gomes de Cena",
+    "aprovadores": "Vinicius Azevedo de Medeiros",
+    "linkAprovacao": "INDUSTRIAL IMPERATRIZ"
+  },
+  {
+    "id": "W4QP6BGIEV",
+    "titulo": "Operação de Área Linha de Fibras",
+    "tarefa": "Limpeza de Equipamentos da área com Bomba Wap / Acumulador Ar e Agua",
+    "situacaoOp": "Normal",
+    "cargos": [
+      "Auxiliares de Produção Operador assistente área Linha de Fibras I Operador de área Linha de Fibras II "
+    ],
+    "GHE": "32000208;\r\n32000207;",
+    "crit44Exposicao": "5 - Entre 4 e 9 pessoas; >10 <100 horas mês",
+    "perigo": [
+      {
+        "tipo": "Ruído",
+        "risco": [
+          {
+            "tipo": "Exposição ao Risco",
+            "crit1Lesao": [
+              "Perda ou diminuição de sentido (audição",
+              " visão",
+              " olfato",
+              " paladar e tato)"
+            ],
+            "crit31NaturDoRisc": "FÍSICO",
+            "crit41Prob": "2 - Remota",
+            "crit42SitControl": "3 - EPI",
+            "crit42Concentracao": "2 - Médio",
+            "crit4Severidade": "2 - Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\nUTILIZAÇÃO DE PROTETOR AUDITIVO",
+              "\r\nUTILIZAR POSTURA CORRETA DO CORPO \r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA DE RECONHECIMENTO EM SSQV",
+              "\r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 120,
+            "significanciaRisco": "Substancial Significante"
+          }
+        ]
+      },
+      {
+        "tipo": "Queda do mesmo nivel",
+        "risco": [
+          {
+            "tipo": "Queda; tropeço;  Desequilíbrio ",
+            "crit1Lesao": [
+              "Ferimentos / escoriações graves\r\nFerimentos / escoriações leves\r\nTorsão"
+            ],
+            "crit31NaturDoRisc": "ACIDENTES",
+            "crit41Prob": "2 - Remota",
+            "crit42SitControl": "2 - Administrativo",
+            "crit42Concentracao": "1 - Baixo",
+            "crit4Severidade": "2 - Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\nUTILIZAÇÃO DE PROTETOR AUDITIVO",
+              "\r\nUTILIZAR POSTURA CORRETA DO CORPO \r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA DE RECONHECIMENTO EM SSQV",
+              "\r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 40,
+            "significanciaRisco": "Moderada Significante"
+          }
+        ]
+      },
+      {
+        "tipo": "Vazamento de produtos Ácidos e Alcalinos",
+        "risco": [
+          {
+            "tipo": "Exposição",
+            "crit1Lesao": [
+              "Queimadura química\r\nMal estar\r\nDermatite"
+            ],
+            "crit31NaturDoRisc": "QUÍMICO",
+            "crit41Prob": "2 - Remota",
+            "crit42SitControl": "3 - EPI",
+            "crit42Concentracao": "2 - Médio",
+            "crit4Severidade": "2 - Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\nUTILIZAÇÃO DE PROTETOR AUDITIVO",
+              "\r\nUTILIZAR POSTURA CORRETA DO CORPO \r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA DE RECONHECIMENTO EM SSQV",
+              "\r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 120,
+            "significanciaRisco": "Substancial Significante"
+          }
+        ]
+      },
+      {
+        "tipo": "Divefrença de Nível",
+        "risco": [
+          {
+            "tipo": "Queda de diferente nível",
+            "crit1Lesao": [
+              "Ferimentos / escoriações graves\r\nFerimentos / escoriações leves"
+            ],
+            "crit31NaturDoRisc": "ACIDENTES",
+            "crit41Prob": "1 - Improvável",
+            "crit42SitControl": "3 - EPI",
+            "crit42Concentracao": "1 - Baixo",
+            "crit4Severidade": "1 - Levemente Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\nUTILIZAÇÃO DE PROTETOR AUDITIVO",
+              "\r\nUTILIZAR POSTURA CORRETA DO CORPO \r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA DE RECONHECIMENTO EM SSQV",
+              "\r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 15,
+            "significanciaRisco": "Aceitável Insignificante"
+          }
+        ]
+      },
+      {
+        "tipo": "Ruptura de Dispositivo Pressurizado",
+        "risco": [
+          {
+            "tipo": "Chicoteamento",
+            "crit1Lesao": [
+              "Contusões\r\nCorte"
+            ],
+            "crit31NaturDoRisc": "ACIDENTES",
+            "crit41Prob": "2 - Remota",
+            "crit42SitControl": "2 - Administrativo",
+            "crit42Concentracao": "2 - Médio",
+            "crit4Severidade": "2 - Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\nUTILIZAÇÃO DE PROTETOR AUDITIVO",
+              "\r\nUTILIZAR POSTURA CORRETA DO CORPO \r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA DE RECONHECIMENTO EM SSQV",
+              "\r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 80,
+            "significanciaRisco": "Moderada Significante"
+          }
+        ]
+      }
+    ],
+    "partesInteressadas": "Sim",
+    "responsavel": "Paulo Jose de Castro",
+    "editores": "Matheus Gomes de Cena",
+    "aprovadores": "Vinicius Azevedo de Medeiros",
+    "linkAprovacao": "INDUSTRIAL IMPERATRIZ"
+  },
+  {
+    "id": "PD54CYGun4",
+    "titulo": "Operação de Área Linha de Fibras",
+    "tarefa": "Limpeza de Prensa",
+    "situacaoOp": "Normal",
+    "cargos": [
+      "Auxiliares de Produção Operador assistente área Linha de Fibras I Operador de área Linha de Fibras II "
+    ],
+    "GHE": "32000208;\r\n32000207;",
+    "crit44Exposicao": "5 - Entre 4 e 9 pessoas; >10 <100 horas mês",
+    "perigo": [
+      {
+        "tipo": "Radiação não ionizante",
+        "risco": [
+          {
+            "tipo": "Exposição ao Risco",
+            "crit1Lesao": [
+              "Insolação\r\nStress\r\nMal estar"
+            ],
+            "crit31NaturDoRisc": "FÍSICO",
+            "crit41Prob": "2 - Remota",
+            "crit42SitControl": "2 - Administrativo",
+            "crit42Concentracao": "2 - Médio",
+            "crit4Severidade": "2 - Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\nUTILIZAÇÃO DE PROTETOR AUDITIVO",
+              "\r\nUTILIZAR POSTURA CORRETA DO CORPO \r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA DE RECONHECIMENTO EM SSQV",
+              "\r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 80,
+            "significanciaRisco": "Moderada Significante"
+          }
+        ]
+      },
+      {
+        "tipo": "Abertura de linha",
+        "risco": [
+          {
+            "tipo": "Falta de orientação/conhecimento",
+            "crit1Lesao": [
+              "Queimaduras químicas\r\nQueimadura térmica\r\nCansaço"
+            ],
+            "crit31NaturDoRisc": "QUÍMICO",
+            "crit41Prob": "1 - Improvável",
+            "crit42SitControl": "2 - Administrativo",
+            "crit42Concentracao": "1 - Baixo",
+            "crit4Severidade": "2 - Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\nUTILIZAÇÃO DE PROTETOR AUDITIVO",
+              "\r\nUTILIZAR POSTURA CORRETA DO CORPO \r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA DE RECONHECIMENTO EM SSQV",
+              "\r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 20,
+            "significanciaRisco": "Moderada Significante"
+          }
+        ]
+      },
+      {
+        "tipo": "Impacto contra parte fixa de equipamento",
+        "risco": [
+          {
+            "tipo": " Bater contra ",
+            "crit1Lesao": [
+              "Contusões\r\nCorte\r\n Escoriações Leves "
+            ],
+            "crit31NaturDoRisc": "ACIDENTES",
+            "crit41Prob": "1 - Improvável",
+            "crit42SitControl": "2 - Administrativo",
+            "crit42Concentracao": "1 - Baixo",
+            "crit4Severidade": "2 - Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\nUTILIZAÇÃO DE PROTETOR AUDITIVO",
+              "\r\nUTILIZAR POSTURA CORRETA DO CORPO \r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA DE RECONHECIMENTO EM SSQV",
+              "\r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 20,
+            "significanciaRisco": "Moderada Significante"
+          }
+        ]
+      }
+    ],
+    "partesInteressadas": "Sim",
+    "responsavel": "Paulo Jose de Castro",
+    "editores": "Matheus Gomes de Cena",
+    "aprovadores": "Vinicius Azevedo de Medeiros",
+    "linkAprovacao": "INDUSTRIAL IMPERATRIZ"
+  },
+  {
+    "id": "TudD7fQVVT",
+    "titulo": "Operação de Área Linha de Fibras",
+    "tarefa": "Limpeza de tanques",
+    "situacaoOp": "Normal",
+    "cargos": [
+      "Auxiliares de Produção Operador assistente área Linha de Fibras I Operador de área Linha de Fibras II "
+    ],
+    "GHE": "32000208;\r\n32000207;",
+    "crit44Exposicao": "5 - Entre 4 e 9 pessoas; >10 <100 horas mês",
+    "perigo": [
+      {
+        "tipo": "Piso irregular e/ou escorregadio",
+        "risco": [
+          {
+            "tipo": "Queda de mesmo nível",
+            "crit1Lesao": [
+              "Ferimentos / escoriações graves\r\nFerimentos / escoriações leves\r\nEscoriações Leves"
+            ],
+            "crit31NaturDoRisc": "ACIDENTES",
+            "crit41Prob": "1 - Improvável",
+            "crit42SitControl": "2 - Administrativo",
+            "crit42Concentracao": "1 - Baixo",
+            "crit4Severidade": "2 - Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\nUTILIZAÇÃO DE PROTETOR AUDITIVO",
+              "\r\nUTILIZAR POSTURA CORRETA DO CORPO \r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA DE RECONHECIMENTO EM SSQV",
+              "\r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 20,
+            "significanciaRisco": "Moderada Significante"
+          },
+          {
+            "tipo": "Queda de diferente nível",
+            "crit1Lesao": [
+              "Ferimentos / escoriações graves\r\nFerimentos / escoriações leves"
+            ],
+            "crit31NaturDoRisc": "ACIDENTES",
+            "crit41Prob": "1 - Improvável",
+            "crit42SitControl": "2 - Administrativo",
+            "crit42Concentracao": "1 - Baixo",
+            "crit4Severidade": "2 - Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\nUTILIZAÇÃO DE PROTETOR AUDITIVO",
+              "\r\nUTILIZAR POSTURA CORRETA DO CORPO \r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA DE RECONHECIMENTO EM SSQV",
+              "\r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 20,
+            "significanciaRisco": "Moderada Significante"
+          }
+        ]
+      }
+    ],
+    "partesInteressadas": "Sim",
+    "responsavel": "Paulo Jose de Castro",
+    "editores": "Matheus Gomes de Cena",
+    "aprovadores": "Vinicius Azevedo de Medeiros",
+    "linkAprovacao": "INDUSTRIAL IMPERATRIZ"
+  },
+  {
+    "id": "UozRk_UmCo",
+    "titulo": "Operação de Área Linha de Fibras",
+    "tarefa": "Limpeza na tela dos filtros recuperadores de fibras",
+    "situacaoOp": "Normal",
+    "cargos": [
+      "Auxiliares de Produção Operador assistente área Linha de Fibras I Operador de área Linha de Fibras II "
+    ],
+    "GHE": "32000208;\r\n32000207;",
+    "crit44Exposicao": "5 - Entre 4 e 9 pessoas; >10 <100 horas mês",
+    "perigo": [
+      {
+        "tipo": "Radiação não ionizante",
+        "risco": [
+          {
+            "tipo": "Exposição ao Risco",
+            "crit1Lesao": [
+              "Insolação\r\nStress\r\nMal estar"
+            ],
+            "crit31NaturDoRisc": "FÍSICO",
+            "crit41Prob": "2 - Remota",
+            "crit42SitControl": "2 - Administrativo",
+            "crit42Concentracao": "2 - Médio",
+            "crit4Severidade": "2 - Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\nUTILIZAÇÃO DE PROTETOR AUDITIVO",
+              "\r\nUTILIZAR POSTURA CORRETA DO CORPO \r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA DE RECONHECIMENTO EM SSQV",
+              "\r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 80,
+            "significanciaRisco": "Moderada Significante"
+          }
+        ]
+      },
+      {
+        "tipo": "Piso irregular e/ou escorregadio",
+        "risco": [
+          {
+            "tipo": "Queda de diferente nível",
+            "crit1Lesao": [
+              "Ferimentos / escoriações graves\r\nFerimentos / escoriações leves"
+            ],
+            "crit31NaturDoRisc": "ACIDENTES",
+            "crit41Prob": "1 - Improvável",
+            "crit42SitControl": "2 - Administrativo",
+            "crit42Concentracao": "1 - Baixo",
+            "crit4Severidade": "2 - Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\nUTILIZAÇÃO DE PROTETOR AUDITIVO",
+              "\r\nUTILIZAR POSTURA CORRETA DO CORPO \r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA DE RECONHECIMENTO EM SSQV",
+              "\r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 20,
+            "significanciaRisco": "Moderada Significante"
+          }
+        ]
+      },
+      {
+        "tipo": "Substâncias químicas",
+        "risco": [
+          {
+            "tipo": "Contato acidental",
+            "crit1Lesao": [
+              "Queimadura química"
+            ],
+            "crit31NaturDoRisc": "QUÍMICO",
+            "crit41Prob": "2 - Remota",
+            "crit42SitControl": "2 - Administrativo",
+            "crit42Concentracao": "2 - Médio",
+            "crit4Severidade": "2 - Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\nUTILIZAÇÃO DE PROTETOR AUDITIVO",
+              "\r\nUTILIZAR POSTURA CORRETA DO CORPO \r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA DE RECONHECIMENTO EM SSQV",
+              "\r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 80,
+            "significanciaRisco": "Moderada Significante"
+          }
+        ]
+      },
+      {
+        "tipo": "Ruído",
+        "risco": [
+          {
+            "tipo": "Exposição ao Risco",
+            "crit1Lesao": [
+              "Perda ou diminuição de sentido (audição",
+              " visão",
+              " olfato",
+              " paladar e tato)"
+            ],
+            "crit31NaturDoRisc": "FÍSICO",
+            "crit41Prob": "2 - Remota",
+            "crit42SitControl": "3 - EPI",
+            "crit42Concentracao": "2 - Médio",
+            "crit4Severidade": "2 - Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\nUTILIZAÇÃO DE PROTETOR AUDITIVO",
+              "\r\nUTILIZAR POSTURA CORRETA DO CORPO \r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA DE RECONHECIMENTO EM SSQV",
+              "\r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 120,
+            "significanciaRisco": "Substancial Significante"
+          }
+        ]
+      }
+    ],
+    "partesInteressadas": "Sim",
+    "responsavel": "Paulo Jose de Castro",
+    "editores": "Matheus Gomes de Cena",
+    "aprovadores": "Vinicius Azevedo de Medeiros",
+    "linkAprovacao": "INDUSTRIAL IMPERATRIZ"
+  },
+  {
+    "id": "uqm1jEJqza",
+    "titulo": "Operação de Área Linha de Fibras",
+    "tarefa": "Limpeza no coletor de pesados dos Depuradores",
+    "situacaoOp": "Normal",
+    "cargos": [
+      "Auxiliares de Produção Operador assistente área Linha de Fibras I Operador de área Linha de Fibras II "
+    ],
+    "GHE": "32000208;\r\n32000207;",
+    "crit44Exposicao": "5 - Entre 4 e 9 pessoas; >10 <100 horas mês",
+    "perigo": [
+      {
+        "tipo": "Radiação não ionizante",
+        "risco": [
+          {
+            "tipo": "Exposição ao Risco",
+            "crit1Lesao": [
+              "Insolação\r\nStress\r\nMal estar"
+            ],
+            "crit31NaturDoRisc": "FÍSICO",
+            "crit41Prob": "2 - Remota",
+            "crit42SitControl": "2 - Administrativo",
+            "crit42Concentracao": "2 - Médio",
+            "crit4Severidade": "2 - Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\nUTILIZAÇÃO DE PROTETOR AUDITIVO",
+              "\r\nUTILIZAR POSTURA CORRETA DO CORPO \r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA DE RECONHECIMENTO EM SSQV",
+              "\r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 80,
+            "significanciaRisco": "Moderada Significante"
+          }
+        ]
+      },
+      {
+        "tipo": "Substâncias químicas",
+        "risco": [
+          {
+            "tipo": "Contato acidental",
+            "crit1Lesao": [
+              "Queimadura química"
+            ],
+            "crit31NaturDoRisc": "QUÍMICO",
+            "crit41Prob": "2 - Remota",
+            "crit42SitControl": "3 - EPI",
+            "crit42Concentracao": "2 - Médio",
+            "crit4Severidade": "2 - Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\nUTILIZAÇÃO DE PROTETOR AUDITIVO",
+              "\r\nUTILIZAR POSTURA CORRETA DO CORPO \r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA DE RECONHECIMENTO EM SSQV",
+              "\r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 120,
+            "significanciaRisco": "Substancial Significante"
+          }
+        ]
+      },
+      {
+        "tipo": "Abrir e fechar Válvulas",
+        "risco": [
+          {
+            "tipo": "Falta de experiência",
+            "crit1Lesao": [
+              "Cansaço\r\nFadiga\r\nLesão "
+            ],
+            "crit31NaturDoRisc": "ACIDENTES",
+            "crit41Prob": "1 - Improvável",
+            "crit42SitControl": "2 - Administrativo",
+            "crit42Concentracao": "2 - Médio",
+            "crit4Severidade": "2 - Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\nUTILIZAÇÃO DE PROTETOR AUDITIVO",
+              "\r\nUTILIZAR POSTURA CORRETA DO CORPO \r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA DE RECONHECIMENTO EM SSQV",
+              "\r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 40,
+            "significanciaRisco": "Moderada Significante"
+          }
+        ]
+      },
+      {
+        "tipo": "Ruído",
+        "risco": [
+          {
+            "tipo": "Exposição ao Risco",
+            "crit1Lesao": [
+              "Perda ou diminuição de sentido (audição",
+              " visão",
+              " olfato",
+              " paladar e tato)"
+            ],
+            "crit31NaturDoRisc": "FÍSICO",
+            "crit41Prob": "2 - Remota",
+            "crit42SitControl": "3 - EPI",
+            "crit42Concentracao": "2 - Médio",
+            "crit4Severidade": "2 - Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\nUTILIZAÇÃO DE PROTETOR AUDITIVO",
+              "\r\nUTILIZAR POSTURA CORRETA DO CORPO \r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA DE RECONHECIMENTO EM SSQV",
+              "\r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 120,
+            "significanciaRisco": "Substancial Significante"
+          }
+        ]
+      },
+      {
+        "tipo": "Piso irregular e/ou escorregadio",
+        "risco": [
+          {
+            "tipo": "Queda de diferente nível",
+            "crit1Lesao": [
+              "Ferimentos / escoriações graves\r\nFerimentos / escoriações leves"
+            ],
+            "crit31NaturDoRisc": "ACIDENTES",
+            "crit41Prob": "1 - Improvável",
+            "crit42SitControl": "2 - Administrativo",
+            "crit42Concentracao": "1 - Baixo",
+            "crit4Severidade": "2 - Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\nUTILIZAÇÃO DE PROTETOR AUDITIVO",
+              "\r\nUTILIZAR POSTURA CORRETA DO CORPO \r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA DE RECONHECIMENTO EM SSQV",
+              "\r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 20,
+            "significanciaRisco": "Moderada Significante"
+          }
+        ]
+      }
+    ],
+    "partesInteressadas": "Sim",
+    "responsavel": "Paulo Jose de Castro",
+    "editores": "Matheus Gomes de Cena",
+    "aprovadores": "Vinicius Azevedo de Medeiros",
+    "linkAprovacao": "INDUSTRIAL IMPERATRIZ"
+  },
+  {
+    "id": "po1Fd3ZLBL",
+    "titulo": "Operação de Área Linha de Fibras",
+    "tarefa": "Manobras em bomba de licor branco",
+    "situacaoOp": "Normal",
+    "cargos": [
+      "Auxiliares de Produção Operador assistente área Linha de Fibras I Operador de área Linha de Fibras II "
+    ],
+    "GHE": "32000208;\r\n32000207;",
+    "crit44Exposicao": "5 - Entre 4 e 9 pessoas; >10 <100 horas mês",
+    "perigo": [
+      {
+        "tipo": "Substâncias químicas",
+        "risco": [
+          {
+            "tipo": "Contato acidental",
+            "crit1Lesao": [
+              "Queimadura química\r\nPerda ou diminuição de sentido (audição",
+              " visão",
+              " olfato",
+              " paladar e tato)"
+            ],
+            "crit31NaturDoRisc": "QUÍMICO",
+            "crit41Prob": "2 - Remota",
+            "crit42SitControl": "3 - EPI",
+            "crit42Concentracao": "2 - Médio",
+            "crit4Severidade": "2 - Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\n CONJUNTO IMPERMEÁVEL:\r\nSeguir procedimento padrão para execução de atividade obedecendo a liberação e EPIs adequados",
+              "\r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nVISTORIA PREVIA DO LOCAL",
+              "\r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA DE RECONHECIMENTO EM SSQV",
+              "\r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 120,
+            "significanciaRisco": "Substancial Significante"
+          }
+        ]
+      },
+      {
+        "tipo": "Abrir e fechar Válvulas",
+        "risco": [
+          {
+            "tipo": "Falta de experiência",
+            "crit1Lesao": [
+              "Cansaço\r\nFadiga\r\nLesão "
+            ],
+            "crit31NaturDoRisc": "ACIDENTES",
+            "crit41Prob": "1 - Improvável",
+            "crit42SitControl": "2 - Administrativo",
+            "crit42Concentracao": "2 - Médio",
+            "crit4Severidade": "2 - Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\n CONJUNTO IMPERMEÁVEL:\r\nSeguir procedimento padrão para execução de atividade obedecendo a liberação e EPIs adequados",
+              "\r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nVISTORIA PREVIA DO LOCAL",
+              "\r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA DE RECONHECIMENTO EM SSQV",
+              "\r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 40,
+            "significanciaRisco": "Moderada Significante"
+          }
+        ]
+      }
+    ],
+    "partesInteressadas": "Sim",
+    "responsavel": "Paulo Jose de Castro",
+    "editores": "Matheus Gomes de Cena",
+    "aprovadores": "Vinicius Azevedo de Medeiros",
+    "linkAprovacao": "INDUSTRIAL IMPERATRIZ"
+  },
+  {
+    "id": "N-RsXNue6b",
+    "titulo": "Operação de Área Linha de Fibras",
+    "tarefa": "Manobras em trocadores de calor",
+    "situacaoOp": "Normal",
+    "cargos": [
+      "Auxiliares de Produção Operador assistente área Linha de Fibras I Operador de área Linha de Fibras II "
+    ],
+    "GHE": "32000208;\r\n32000207;",
+    "crit44Exposicao": "5 - Entre 4 e 9 pessoas; >10 <100 horas mês",
+    "perigo": [
+      {
+        "tipo": "Abrir e fechar Válvulas",
+        "risco": [
+          {
+            "tipo": "Falta de experiência",
+            "crit1Lesao": [
+              "Cansaço\r\nFadiga\r\nLesão "
+            ],
+            "crit31NaturDoRisc": "ACIDENTES",
+            "crit41Prob": "1 - Improvável",
+            "crit42SitControl": "2 - Administrativo",
+            "crit42Concentracao": "2 - Médio",
+            "crit4Severidade": "2 - Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\n CONJUNTO IMPERMEÁVEL:\r\nSeguir procedimento padrão para execução de atividade obedecendo a liberação e EPIs adequados",
+              "\r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nVISTORIA PREVIA DO LOCAL",
+              "\r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA DE RECONHECIMENTO EM SSQV",
+              "\r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 40,
+            "significanciaRisco": "Moderada Significante"
+          }
+        ]
+      },
+      {
+        "tipo": "Ruído",
+        "risco": [
+          {
+            "tipo": "Exposição ao Risco",
+            "crit1Lesao": [
+              "Perda ou diminuição de sentido (audição",
+              " visão",
+              " olfato",
+              " paladar e tato)"
+            ],
+            "crit31NaturDoRisc": "FÍSICO",
+            "crit41Prob": "1 - Improvável",
+            "crit42SitControl": "3 - EPI",
+            "crit42Concentracao": "1 - Baixo",
+            "crit4Severidade": "2 - Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\n CONJUNTO IMPERMEÁVEL:\r\nSeguir procedimento padrão para execução de atividade obedecendo a liberação e EPIs adequados",
+              "\r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nVISTORIA PREVIA DO LOCAL",
+              "\r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA DE RECONHECIMENTO EM SSQV",
+              "\r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 30,
+            "significanciaRisco": "Moderada Significante"
+          }
+        ]
+      }
+    ],
+    "partesInteressadas": "Sim",
+    "responsavel": "Paulo Jose de Castro",
+    "editores": "Matheus Gomes de Cena",
+    "aprovadores": "Vinicius Azevedo de Medeiros",
+    "linkAprovacao": "INDUSTRIAL IMPERATRIZ"
+  },
+  {
+    "id": "WVhSKAI6U_",
+    "titulo": "Operação de Área Linha de Fibras",
+    "tarefa": "Manobras no sistema de antiespumante",
+    "situacaoOp": "Normal",
+    "cargos": [
+      "Auxiliares de Produção Operador assistente área Linha de Fibras I Operador de área Linha de Fibras II "
+    ],
+    "GHE": "32000208;\r\n32000207;",
+    "crit44Exposicao": "5 - Entre 4 e 9 pessoas; >10 <100 horas mês",
+    "perigo": [
+      {
+        "tipo": "Abrir e fechar Válvulas",
+        "risco": [
+          {
+            "tipo": "Falta de experiência",
+            "crit1Lesao": [
+              "Cansaço\r\nFadiga\r\nLesão "
+            ],
+            "crit31NaturDoRisc": "ACIDENTES",
+            "crit41Prob": "1 - Improvável",
+            "crit42SitControl": "2 - Administrativo",
+            "crit42Concentracao": "2 - Médio",
+            "crit4Severidade": "2 - Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\n CONJUNTO IMPERMEÁVEL:\r\nSeguir procedimento padrão para execução de atividade obedecendo a liberação e EPIs adequados",
+              "\r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nVISTORIA PREVIA DO LOCAL",
+              "\r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA DE RECONHECIMENTO EM SSQV",
+              "\r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 40,
+            "significanciaRisco": "Moderada Significante"
+          }
+        ]
+      },
+      {
+        "tipo": "Substâncias químicas",
+        "risco": [
+          {
+            "tipo": "Contato acidental",
+            "crit1Lesao": [
+              "Queimadura química\r\nPerda ou diminuição de sentido (audição",
+              " visão",
+              " olfato",
+              " paladar e tato)"
+            ],
+            "crit31NaturDoRisc": "QUÍMICO",
+            "crit41Prob": "2 - Remota",
+            "crit42SitControl": "3 - EPI",
+            "crit42Concentracao": "2 - Médio",
+            "crit4Severidade": "2 - Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\n CONJUNTO IMPERMEÁVEL:\r\nSeguir procedimento padrão para execução de atividade obedecendo a liberação e EPIs adequados",
+              "\r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nVISTORIA PREVIA DO LOCAL",
+              "\r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA DE RECONHECIMENTO EM SSQV",
+              "\r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 120,
+            "significanciaRisco": "Substancial Significante"
+          }
+        ]
+      }
+    ],
+    "partesInteressadas": "Sim",
+    "responsavel": "Paulo Jose de Castro",
+    "editores": "Matheus Gomes de Cena",
+    "aprovadores": "Vinicius Azevedo de Medeiros",
+    "linkAprovacao": "INDUSTRIAL IMPERATRIZ"
+  },
+  {
+    "id": "hf7jSo7xyg",
+    "titulo": "Operação de Área Linha de Fibras",
+    "tarefa": "Movimentação da caçamba de areia do separador de areia do cozimento CS-101",
+    "situacaoOp": "Normal",
+    "cargos": [
+      "Auxiliares de Produção Operador assistente área Linha de Fibras I Operador de área Linha de Fibras II "
+    ],
+    "GHE": "32000208;\r\n32000207;",
+    "crit44Exposicao": "5 - Entre 4 e 9 pessoas; >10 <100 horas mês",
+    "perigo": [
+      {
+        "tipo": "Ser atingido por",
+        "risco": [
+          {
+            "tipo": " Projeção de partes sólidas, projeção de partículas, ser atingindo por ",
+            "crit1Lesao": [
+              " IRRITAÇÕES DAS VIAS AÉREAS \r\nQueimadura\r\nFerimentos"
+            ],
+            "crit31NaturDoRisc": "QUÍMICO",
+            "crit41Prob": "1 - Improvável",
+            "crit42SitControl": "3 - EPI",
+            "crit42Concentracao": "2 - Médio",
+            "crit4Severidade": "2 - Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 60,
+            "significanciaRisco": "Moderada Significante"
+          }
+        ]
+      }
+    ],
+    "partesInteressadas": "Sim",
+    "responsavel": "Paulo Jose de Castro",
+    "editores": "Matheus Gomes de Cena",
+    "aprovadores": "Vinicius Azevedo de Medeiros",
+    "linkAprovacao": "INDUSTRIAL IMPERATRIZ"
+  },
+  {
+    "id": "q-C4PwrSMD",
+    "titulo": "Operação de Área Linha de Fibras",
+    "tarefa": "Movimentação da caçamba de areia do separador de areia do cozimento CS-102",
+    "situacaoOp": "Normal",
+    "cargos": [
+      "Auxiliares de Produção Operador assistente área Linha de Fibras I Operador de área Linha de Fibras II "
+    ],
+    "GHE": "32000208;\r\n32000207;",
+    "crit44Exposicao": "5 - Entre 4 e 9 pessoas; >10 <100 horas mês",
+    "perigo": [
+      {
+        "tipo": "Máquinas e/ou equipamentos",
+        "risco": [
+          {
+            "tipo": " Atropleamento/ Batida contra/ Colisão ",
+            "crit1Lesao": [
+              "Ferimentos  \r\nEscoriações Leves"
+            ],
+            "crit31NaturDoRisc": "ACIDENTES",
+            "crit41Prob": "1 - Improvável",
+            "crit42SitControl": "2 - Administrativo",
+            "crit42Concentracao": "1 - Baixo",
+            "crit4Severidade": "1 - Levemente Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 10,
+            "significanciaRisco": "Aceitável Insignificante"
+          }
+        ]
+      }
+    ],
+    "partesInteressadas": "Sim",
+    "responsavel": "Paulo Jose de Castro",
+    "editores": "Matheus Gomes de Cena",
+    "aprovadores": "Vinicius Azevedo de Medeiros",
+    "linkAprovacao": "INDUSTRIAL IMPERATRIZ"
+  },
+  {
+    "id": "GviDZGiT9S",
+    "titulo": "Operação de Área Linha de Fibras",
+    "tarefa": "Prensagem de refugo diversos",
+    "situacaoOp": "Normal",
+    "cargos": [
+      "Auxiliares de Produção Operador assistente área Linha de Fibras I Operador de área Linha de Fibras II "
+    ],
+    "GHE": "32000208;\r\n32000207;",
+    "crit44Exposicao": "5 - Entre 4 e 9 pessoas; >10 <100 horas mês",
+    "perigo": [
+      {
+        "tipo": "Piso irregular e/ou escorregadio",
+        "risco": [
+          {
+            "tipo": "Queda de diferente nível",
+            "crit1Lesao": [
+              "Ferimentos / escoriações graves\r\nFerimentos / escoriações leves"
+            ],
+            "crit31NaturDoRisc": "ACIDENTES",
+            "crit41Prob": "1 - Improvável",
+            "crit42SitControl": "3 - EPI",
+            "crit42Concentracao": "1 - Baixo",
+            "crit4Severidade": "2 - Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\nUSO DE PROTETOR AUDITIVO",
+              "\r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 30,
+            "significanciaRisco": "Moderada Significante"
+          }
+        ]
+      },
+      {
+        "tipo": "Ruído",
+        "risco": [
+          {
+            "tipo": "Exposição ao Risco",
+            "crit1Lesao": [
+              "Perda ou diminuição de sentido (audição",
+              " visão",
+              " olfato",
+              " paladar e tato)"
+            ],
+            "crit31NaturDoRisc": "FÍSICO",
+            "crit41Prob": "1 - Improvável",
+            "crit42SitControl": "3 - EPI",
+            "crit42Concentracao": "1 - Baixo",
+            "crit4Severidade": "2 - Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\nUSO DE PROTETOR AUDITIVO",
+              "\r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 30,
+            "significanciaRisco": "Moderada Significante"
+          }
+        ]
+      }
+    ],
+    "partesInteressadas": "Sim",
+    "responsavel": "Paulo Jose de Castro",
+    "editores": "Matheus Gomes de Cena",
+    "aprovadores": "Vinicius Azevedo de Medeiros",
+    "linkAprovacao": "INDUSTRIAL IMPERATRIZ"
+  },
+  {
+    "id": "m-nkg9_l5X",
+    "titulo": "Operação de Área Linha de Fibras",
+    "tarefa": "Regulagem de pressão da BB-236 - Alta pressão",
+    "situacaoOp": "Normal",
+    "cargos": [
+      "Auxiliares de Produção Operador assistente área Linha de Fibras I Operador de área Linha de Fibras II "
+    ],
+    "GHE": "32000208;\r\n32000207;",
+    "crit44Exposicao": "5 - Entre 4 e 9 pessoas; >10 <100 horas mês",
+    "perigo": [
+      {
+        "tipo": "Equipamento sob pressão",
+        "risco": [
+          {
+            "tipo": "Contato acidental",
+            "crit1Lesao": [
+              "Ferimentos\r\nEscoriações Leves"
+            ],
+            "crit31NaturDoRisc": "FÍSICO",
+            "crit41Prob": "2 - Remota",
+            "crit42SitControl": "3 - EPI",
+            "crit42Concentracao": "1 - Baixo",
+            "crit4Severidade": "2 - Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\nUSO DE PROTETOR AUDITIVO",
+              "\r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 60,
+            "significanciaRisco": "Moderada Significante"
+          }
+        ]
+      }
+    ],
+    "partesInteressadas": "Sim",
+    "responsavel": "Paulo Jose de Castro",
+    "editores": "Matheus Gomes de Cena",
+    "aprovadores": "Vinicius Azevedo de Medeiros",
+    "linkAprovacao": "INDUSTRIAL IMPERATRIZ"
+  },
+  {
+    "id": "fToxgpEdqx",
+    "titulo": "Operação de Área Linha de Fibras",
+    "tarefa": "Trabalhaos adminstrativos com uso do computador",
+    "situacaoOp": "Normal",
+    "cargos": [
+      "Auxiliares de Produção Operador assistente área Linha de Fibras I Operador de área Linha de Fibras II "
+    ],
+    "GHE": "32000208;\r\n32000207;",
+    "crit44Exposicao": "6 - 10 ou mais pessoas; >10 <100 horas mês",
+    "perigo": [
+      {
+        "tipo": " Ergonomia/Prevenção ",
+        "risco": [
+          {
+            "tipo": " LER/DORT ",
+            "crit1Lesao": [
+              "Lesão\r\n Entorse "
+            ],
+            "crit31NaturDoRisc": "ERGONÔMICO",
+            "crit41Prob": "1 - Improvável",
+            "crit42SitControl": "2 - Administrativo",
+            "crit42Concentracao": "1 - Baixo",
+            "crit4Severidade": "1 - Levemente Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\nREALIZAR ALONGAMENTOS E PAUSAS",
+              "\r\nTRABALHAR COM EQUIPAMENTO EM POSIÇÃO ERGONÔMICAMENTE CORRETA",
+              "\r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 12,
+            "significanciaRisco": "Aceitável Insignificante"
+          }
+        ]
+      }
+    ],
+    "partesInteressadas": "Sim",
+    "responsavel": "Paulo Jose de Castro",
+    "editores": "Matheus Gomes de Cena",
+    "aprovadores": "Vinicius Azevedo de Medeiros",
+    "linkAprovacao": "INDUSTRIAL IMPERATRIZ"
+  },
+  {
+    "id": "V-BoVBoUM6",
+    "titulo": "Operação de Área Linha de Fibras",
+    "tarefa": "Trabalhos envolvendo Fontes Radioativas",
+    "situacaoOp": "Normal",
+    "cargos": [
+      "Auxiliares de Produção Operador assistente área Linha de Fibras I Operador de área Linha de Fibras II "
+    ],
+    "GHE": "32000208;\r\n32000207;",
+    "crit44Exposicao": "5 - Entre 4 e 9 pessoas; >10 <100 horas mês",
+    "perigo": [
+      {
+        "tipo": "Ruído",
+        "risco": [
+          {
+            "tipo": "Exposição ao Risco",
+            "crit1Lesao": [
+              "Perda ou diminuição de sentido (audição",
+              " visão",
+              " olfato",
+              " paladar e tato)"
+            ],
+            "crit31NaturDoRisc": "FÍSICO",
+            "crit41Prob": "1 - Improvável",
+            "crit42SitControl": "3 - EPI",
+            "crit42Concentracao": "1 - Baixo",
+            "crit4Severidade": "2 - Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 30,
+            "significanciaRisco": "Moderada Significante"
+          }
+        ]
+      },
+      {
+        "tipo": "Material particulado",
+        "risco": [
+          {
+            "tipo": "Contato acidental",
+            "crit1Lesao": [
+              "irritação das vias respiratórias  \r\nAlergia"
+            ],
+            "crit31NaturDoRisc": "QUÍMICO",
+            "crit41Prob": "1 - Improvável",
+            "crit42SitControl": "3 - EPI",
+            "crit42Concentracao": "1 - Baixo",
+            "crit4Severidade": "2 - Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 30,
+            "significanciaRisco": "Moderada Significante"
+          }
+        ]
+      }
+    ],
+    "partesInteressadas": "Sim",
+    "responsavel": "Paulo Jose de Castro",
+    "editores": "Matheus Gomes de Cena",
+    "aprovadores": "Vinicius Azevedo de Medeiros",
+    "linkAprovacao": "INDUSTRIAL IMPERATRIZ"
+  },
+  {
+    "id": "DkRiNvlQyT",
+    "titulo": "Operação de Área Linha de Fibras",
+    "tarefa": "Utilização de aspirador para limpeza da TC-105",
+    "situacaoOp": "Normal",
+    "cargos": [
+      "Auxiliares de Produção Operador assistente área Linha de Fibras I Operador de área Linha de Fibras II "
+    ],
+    "GHE": "32000208;\r\n32000207;",
+    "crit44Exposicao": "5 - Entre 4 e 9 pessoas; >10 <100 horas mês",
+    "perigo": [
+      {
+        "tipo": "Material particulado",
+        "risco": [
+          {
+            "tipo": "Contato acidental",
+            "crit1Lesao": [
+              "irritação das vias respiratórias  \r\nAlergia"
+            ],
+            "crit31NaturDoRisc": "QUÍMICO",
+            "crit41Prob": "1 - Improvável",
+            "crit42SitControl": "3 - EPI",
+            "crit42Concentracao": "1 - Baixo",
+            "crit4Severidade": "2 - Prejudicial",
+            "controlOp": [
+              "UTILIZAR OS EPIS BÁSICOS",
+              " PORTAR MÁSCARA DE FUGA",
+              "\r\nUSO DE PROTETOR AUDITIVO",
+              "\r\nSEGUIR PAE - PLANO DE ATENDIMENTO A EMERGÊNCIA",
+              " \r\nTREINAMENTO DE PERCEPÇÃO DE RISCOS",
+              "\r\nPROGRAMA LINHA MESTRA",
+              " \r\nPROGRAMA BOM SENSO",
+              " UTILIZAÇÃO DE EPI",
+              " DIÁLOGO DE SEGURANÇA",
+              " SAÚDE E MEIO AMBIENTE",
+              ""
+            ],
+            "calculo": 30,
+            "significanciaRisco": "Moderada Significante"
+          }
+        ]
+      }
+    ],
+    "partesInteressadas": "Sim",
+    "responsavel": "Paulo Jose de Castro",
+    "editores": "Matheus Gomes de Cena",
+    "aprovadores": "Vinicius Azevedo de Medeiros",
+    "linkAprovacao": "INDUSTRIAL IMPERATRIZ"
+  }
+]
