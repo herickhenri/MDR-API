@@ -11,7 +11,9 @@ const app = Fastify()
 
 await app.register(cors, {origin: "*"})
 
-app.post('/MDR/create', createManyMDR)
+const megabyte = 1024 * 1024
+
+app.post('/MDR/create', {bodyLimit: 5*megabyte}, createManyMDR)
 app.post('/sector/create', createSectorMDR)
 app.get('/MDR/all', getManyMDR)
 app.get('/MDR/:id', getMDR)
