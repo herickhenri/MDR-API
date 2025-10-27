@@ -59,3 +59,11 @@ model Risk {
   dangerId           String?
   Danger             Danger?  @relation(fields: [dangerId], references: [id], onDelete: Cascade)
 }
+
+model LogErrors {
+  id        String @id @default(cuid())
+  error     String
+  info      String
+  userAgent String
+  url       String
+}

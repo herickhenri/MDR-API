@@ -6,6 +6,7 @@ import { getFiltersMDR } from "./controllers/get-filters-MDR.js";
 import { createSectorMDR } from "./controllers/create-sector-MDR.js";
 import { getMDR } from "./controllers/get-MDR.js";
 import { env } from "./env/index.js";
+import { postLogError } from "./controllers/post-log-error.js";
 
 const app = Fastify()
 
@@ -18,6 +19,7 @@ app.post('/sector/create', createSectorMDR)
 app.get('/MDR/all', getManyMDR)
 app.get('/MDR/:id', getMDR)
 app.get('/MDR/filters', getFiltersMDR)
+app.post('/log-client-error', postLogError)
 
 app.setErrorHandler((error, _, reply) => {
   console.log(error);
