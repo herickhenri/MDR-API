@@ -61,9 +61,10 @@ model Risk {
 }
 
 model LogErrors {
-  id        String @id @default(cuid())
+  id        String  @id @default(cuid())
   error     String
   info      String
   userAgent String
   url       String
+  stack     String?
 }

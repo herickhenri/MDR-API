@@ -11,6 +11,7 @@ export async function postLogError(
       info: z.string(),
       userAgent: z.string(),
       url: z.url(),
+      stack: z.string().optional(),
     })
 
     const logError = logErrorBodySchema.parse(request.body)
